@@ -1,1080 +1,1080 @@
 [
   {
-    "card-href": "https://gitcoin.co/kudos/143/blockchain_engineer",
-    "card-name": "Blockchain Engineer",
-    "card-description": "This kudos is for contributors to your project that make the blockchain work!",
-    "card-quality": "Very Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/blockchain_star.f08d9b4c9349.svg"
+    "link": "https://gitcoin.co/kudos/143/blockchain_engineer",
+    "name": "Blockchain Engineer",
+    "description": "This kudos is for contributors to your project that make the blockchain work!",
+    "quality": "Very Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/blockchain_star.f08d9b4c9349.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/145/rubber_ducky",
-    "card-name": "Rubber Ducky",
-    "card-description": "A ducky that helps solve your problems!  Always ask your ducky first when you can't figure something out :)",
-    "card-quality": "Special",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/coding_ducky.b36a34a423b0.svg"
+    "link": "https://gitcoin.co/kudos/145/rubber_ducky",
+    "name": "Rubber Ducky",
+    "description": "A ducky that helps solve your problems!  Always ask your ducky first when you can't figure something out :)",
+    "quality": "Special",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/coding_ducky.b36a34a423b0.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/56/java_doctor",
-    "card-name": "Java Doctor",
-    "card-description": "Is there anything better than a cup 'o' Joe in the morning? Java can be written once and run everywhere; so what better tool to BUIDL on in the modern, blockchain-enabled, web?  Owners of the Java Doctor badge are famous for their mastery of the Java programming language!",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/java_doctor.3c286b4a3c51.svg"
+    "link": "https://gitcoin.co/kudos/56/java_doctor",
+    "name": "Java Doctor",
+    "description": "Is there anything better than a cup 'o' Joe in the morning? Java can be written once and run everywhere; so what better tool to BUIDL on in the modern, blockchain-enabled, web?  Owners of the Java Doctor badge are famous for their mastery of the Java programming language!",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/java_doctor.3c286b4a3c51.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/331/i_was_told_there_would_be_lambos",
-    "card-name": "I Was Told There Would Be Lambos",
-    "card-description": "I was told there would be lambos on the moon",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/i_was_told_there_would_be_lambos.97e77965bfc8.svg"
+    "link": "https://gitcoin.co/kudos/331/i_was_told_there_would_be_lambos",
+    "name": "I Was Told There Would Be Lambos",
+    "description": "I was told there would be lambos on the moon",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/i_was_told_there_would_be_lambos.97e77965bfc8.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/126/release_early_and_often",
-    "card-name": "Release Early And Often",
-    "card-description": "With the goal of releasing in mind, we help sustain the ecosystem by shipping quickly to learn quickly.",
-    "card-quality": "Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/release_early_and_often.aa20a8e942ee.svg"
+    "link": "https://gitcoin.co/kudos/126/release_early_and_often",
+    "name": "Release Early And Often",
+    "description": "With the goal of releasing in mind, we help sustain the ecosystem by shipping quickly to learn quickly.",
+    "quality": "Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/release_early_and_often.aa20a8e942ee.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/105/bee_of_all_trades",
-    "card-name": "Bee Of All Trades",
-    "card-description": "Are you a cross-pollinator?  Do you deliver value in a lot of places at once?  This 'Bee of all trades' badge is for you!",
-    "card-quality": "Special",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/bee_of_all_trades.864c12af9203.svg"
+    "link": "https://gitcoin.co/kudos/105/bee_of_all_trades",
+    "name": "Bee Of All Trades",
+    "description": "Are you a cross-pollinator?  Do you deliver value in a lot of places at once?  This 'Bee of all trades' badge is for you!",
+    "quality": "Special",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/bee_of_all_trades.864c12af9203.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/74/handyman",
-    "card-name": "Handyman",
-    "card-description": "Its great to have a handy man around your house when your sink, plumbing, electricity, breaks.  Owners of this badge are digital handymen and handywomen.  They fix stuff, and do it with a smile on their face!",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/handyman.8c15e36f9c63.svg"
+    "link": "https://gitcoin.co/kudos/74/handyman",
+    "name": "Handyman",
+    "description": "Its great to have a handy man around your house when your sink, plumbing, electricity, breaks.  Owners of this badge are digital handymen and handywomen.  They fix stuff, and do it with a smile on their face!",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/handyman.8c15e36f9c63.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/177/creative",
-    "card-name": "Creative",
-    "card-description": "Limited Edition Cellarius Kudos!  This kudos is for the squiggles, not the lines.  If your contributor is very creative, send them this kudos!",
-    "card-quality": "Very Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/cellarius/Spaghetti.01a72f055dc2.svg"
+    "link": "https://gitcoin.co/kudos/177/creative",
+    "name": "Creative",
+    "description": "Limited Edition Cellarius Kudos!  This kudos is for the squiggles, not the lines.  If your contributor is very creative, send them this kudos!",
+    "quality": "Very Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/cellarius/Spaghetti.01a72f055dc2.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/170/oddjobs",
-    "card-name": "Oddjobs",
-    "card-description": "Limited Edition Cellarius Kudos! Holders of these badges are highly skilled at many things. Their talents are unlimited and sometimes at odds on the spectrum of skills.",
-    "card-quality": "Very Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/cellarius/oddjobs.60b2c63ef091.svg"
+    "link": "https://gitcoin.co/kudos/170/oddjobs",
+    "name": "Oddjobs",
+    "description": "Limited Edition Cellarius Kudos! Holders of these badges are highly skilled at many things. Their talents are unlimited and sometimes at odds on the spectrum of skills.",
+    "quality": "Very Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/cellarius/oddjobs.60b2c63ef091.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/104/flying_pony",
-    "card-name": "Flying Pony",
-    "card-description": "Flying Ponies take risks, inspire other ponies to think big to achieve big ideas. We turn lofty ideas into something tangible. We are fearless about the outcome, sometimes to our own detriment.",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/flying_pony.84914e567e19.svg"
+    "link": "https://gitcoin.co/kudos/104/flying_pony",
+    "name": "Flying Pony",
+    "description": "Flying Ponies take risks, inspire other ponies to think big to achieve big ideas. We turn lofty ideas into something tangible. We are fearless about the outcome, sometimes to our own detriment.",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/flying_pony.84914e567e19.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/144/gitcoin_og",
-    "card-name": "Gitcoin Og",
-    "card-description": "You are an OG.  You are a pioneer of Gitcoin open source!",
-    "card-quality": "Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/west.7637d0219342.svg"
+    "link": "https://gitcoin.co/kudos/144/gitcoin_og",
+    "name": "Gitcoin Og",
+    "description": "You are an OG.  You are a pioneer of Gitcoin open source!",
+    "quality": "Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/west.7637d0219342.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/68/mega_open_collaborator",
-    "card-name": "Mega Open Collaborator",
-    "card-description": "Be open to the point of promiscuity\" is one of our favorite points from the famous essay from Eric Raymond entitled \"The Cathedral and the Bazaar\".  Owners of this badge embody the principle of Openness from the Cathedral and the Bazaar.",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/mega_open_collaborator.768aef495354.svg"
+    "link": "https://gitcoin.co/kudos/68/mega_open_collaborator",
+    "name": "Mega Open Collaborator",
+    "description": "Be open to the point of promiscuity\" is one of our favorite points from the famous essay from Eric Raymond entitled \"The Cathedral and the Bazaar\".  Owners of this badge embody the principle of Openness from the Cathedral and the Bazaar.",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/mega_open_collaborator.768aef495354.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/330/popcorn",
-    "card-name": "Popcorn",
-    "card-description": "For the popcorn.gif moments in your life.",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/popcorn.5068b9a2aa9e.svg"
+    "link": "https://gitcoin.co/kudos/330/popcorn",
+    "name": "Popcorn",
+    "description": "For the popcorn.gif moments in your life.",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/popcorn.5068b9a2aa9e.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/187/shillin_like_a_villian",
-    "card-name": "Shillin Like A Villian",
-    "card-description": "Know someone who so good at shillin' that they're shillin like a Villian?  This Kudos is for them!",
-    "card-quality": "Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/shillin_like_a_villian.aa25d35462de.svg"
+    "link": "https://gitcoin.co/kudos/187/shillin_like_a_villian",
+    "name": "Shillin Like A Villian",
+    "description": "Know someone who so good at shillin' that they're shillin like a Villian?  This Kudos is for them!",
+    "quality": "Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/shillin_like_a_villian.aa25d35462de.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/67/open_source_freedom_fighter",
-    "card-name": "Open Source Freedom Fighter",
-    "card-description": "Hey, look -- In the sky, it's a bird.  No it's a plane.  No it's an Open Source Freedom Fighter!  OSS Freedom Fighters fight for liberty, justice, and open source code for all!",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/open_source_freedom_fighter.a2c95113d5d4.svg"
+    "link": "https://gitcoin.co/kudos/67/open_source_freedom_fighter",
+    "name": "Open Source Freedom Fighter",
+    "description": "Hey, look -- In the sky, it's a bird.  No it's a plane.  No it's an Open Source Freedom Fighter!  OSS Freedom Fighters fight for liberty, justice, and open source code for all!",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/open_source_freedom_fighter.a2c95113d5d4.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/322/moksha",
-    "card-name": "Moksha",
-    "card-description": "Moksha is a term in Hinduism, Buddhism, Jainism and Sikhism which refers to various forms of emancipation, enlightenment, liberation, and release.",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/Moksha.499ec860bcdc.svg"
+    "link": "https://gitcoin.co/kudos/322/moksha",
+    "name": "Moksha",
+    "description": "Moksha is a term in Hinduism, Buddhism, Jainism and Sikhism which refers to various forms of emancipation, enlightenment, liberation, and release.",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/Moksha.499ec860bcdc.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/388/ipfs",
-    "card-name": "Ipfs",
-    "card-description": "Know someone who's good at IPFS?  This kudos is for them",
-    "card-quality": "Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/ipfs.963047dd8081.svg"
+    "link": "https://gitcoin.co/kudos/388/ipfs",
+    "name": "Ipfs",
+    "description": "Know someone who's good at IPFS?  This kudos is for them",
+    "quality": "Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/ipfs.963047dd8081.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/70/sustainer",
-    "card-name": "Sustainer",
-    "card-description": "Open Source Software is fraught with problems with sustainability.  Owners of this badge are fighting to change to tide and to make Open Source Software sustainable for generations to come!",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/sustainer.4c060961ae3a.svg"
+    "link": "https://gitcoin.co/kudos/70/sustainer",
+    "name": "Sustainer",
+    "description": "Open Source Software is fraught with problems with sustainability.  Owners of this badge are fighting to change to tide and to make Open Source Software sustainable for generations to come!",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/sustainer.4c060961ae3a.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/621/top_leaderboard",
-    "card-name": "Top Leaderboard",
-    "card-description": "This kudos is for those who have been at the top of the Gitcoin Leaderboard at gitcoin.co/leaderboard",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/trophy_1.073fc03310f9.svg"
+    "link": "https://gitcoin.co/kudos/621/top_leaderboard",
+    "name": "Top Leaderboard",
+    "description": "This kudos is for those who have been at the top of the Gitcoin Leaderboard at gitcoin.co/leaderboard",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/trophy_1.073fc03310f9.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/59/elixer_mixer",
-    "card-name": "Elixer Mixer",
-    "card-description": "Elixer Mixers are known for their alchemy.  Just as a chemist combines fundamental chemical primitives to create potions that are near-magic, an Elixer Mixer combines functional programming with the Erlang VM to to produce low-latency, fault tolerant, systems!",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/elixer_mixer.ecb3d8f003a9.svg"
+    "link": "https://gitcoin.co/kudos/59/elixer_mixer",
+    "name": "Elixer Mixer",
+    "description": "Elixer Mixers are known for their alchemy.  Just as a chemist combines fundamental chemical primitives to create potions that are near-magic, an Elixer Mixer combines functional programming with the Erlang VM to to produce low-latency, fault tolerant, systems!",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/elixer_mixer.ecb3d8f003a9.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/129/gitter_of_coins",
-    "card-name": "Gitter Of Coins",
-    "card-description": "For the contributors on the platform that, well... , GIT coins.",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/gitter_of_coins.8353c9022d26.svg"
+    "link": "https://gitcoin.co/kudos/129/gitter_of_coins",
+    "name": "Gitter Of Coins",
+    "description": "For the contributors on the platform that, well... , GIT coins.",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/gitter_of_coins.8353c9022d26.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/176/infinite_energy",
-    "card-name": "Infinite Energy",
-    "card-description": "Limited Edition Cellarius Kudos!  This kudos is for contributors who are infinite sources of energy to your project!",
-    "card-quality": "Very Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/cellarius/Infinite.d2e7fb105b26.svg"
+    "link": "https://gitcoin.co/kudos/176/infinite_energy",
+    "name": "Infinite Energy",
+    "description": "Limited Edition Cellarius Kudos!  This kudos is for contributors who are infinite sources of energy to your project!",
+    "quality": "Very Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/cellarius/Infinite.d2e7fb105b26.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/386/firedog",
-    "card-name": "Firedog",
-    "card-description": "This is fine.. Everything is fine.  Know someone who's cool under pressure?  Then this kudos is for them!",
-    "card-quality": "Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/firedog.e1c5bdd34e58.svg"
+    "link": "https://gitcoin.co/kudos/386/firedog",
+    "name": "Firedog",
+    "description": "This is fine.. Everything is fine.  Know someone who's cool under pressure?  Then this kudos is for them!",
+    "quality": "Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/firedog.e1c5bdd34e58.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/387/give_first",
-    "card-name": "Give First",
-    "card-description": "Know someone who's always giving without expectation of return?  This kudos is for them.",
-    "card-quality": "Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/give_first.35334e9dec6d.svg"
+    "link": "https://gitcoin.co/kudos/387/give_first",
+    "name": "Give First",
+    "description": "Know someone who's always giving without expectation of return?  This kudos is for them.",
+    "quality": "Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/give_first.35334e9dec6d.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/109/product_wizard",
-    "card-name": "Product Wizard",
-    "card-description": "Looking for someone to put on their product wizard's cap and deliver massive value to your project?  This kudos is for you!",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/product_wizard.5a6a8ddefa18.svg"
+    "link": "https://gitcoin.co/kudos/109/product_wizard",
+    "name": "Product Wizard",
+    "description": "Looking for someone to put on their product wizard's cap and deliver massive value to your project?  This kudos is for you!",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/product_wizard.5a6a8ddefa18.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/169/lightning_fast",
-    "card-name": "Lightning Fast",
-    "card-description": "Limited Edition Cellarius Kudos! The holder of this badge needs no introduction. Work is completed quickly as is a flash of lightning.",
-    "card-quality": "Very Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/cellarius/lightning_fast.278e28ce4b5e.svg"
+    "link": "https://gitcoin.co/kudos/169/lightning_fast",
+    "name": "Lightning Fast",
+    "description": "Limited Edition Cellarius Kudos! The holder of this badge needs no introduction. Work is completed quickly as is a flash of lightning.",
+    "quality": "Very Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/cellarius/lightning_fast.278e28ce4b5e.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/71/super_juggler",
-    "card-name": "Super Juggler",
-    "card-description": "Jugglers are known for their joyous attitude and their ability to manage multiple balls in the air at once.  Owners of this badge can contribute meaningfully to several projects at once and not let a single one drop!",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/super_juggler.c67eb3c624f3.svg"
+    "link": "https://gitcoin.co/kudos/71/super_juggler",
+    "name": "Super Juggler",
+    "description": "Jugglers are known for their joyous attitude and their ability to manage multiple balls in the air at once.  Owners of this badge can contribute meaningfully to several projects at once and not let a single one drop!",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/super_juggler.c67eb3c624f3.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/85/navigator",
-    "card-name": "Navigator",
-    "card-description": "Want to work with someone who can navigate through complexity and deliver on-time, on-scope, and on-budget?  Look no further than owneres of this kudos!",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/direct.57b4d0060836.svg"
+    "link": "https://gitcoin.co/kudos/85/navigator",
+    "name": "Navigator",
+    "description": "Want to work with someone who can navigate through complexity and deliver on-time, on-scope, and on-budget?  Look no further than owneres of this kudos!",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/direct.57b4d0060836.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/55/infrastructure_ninja",
-    "card-name": "Infrastructure Ninja",
-    "card-description": "Just like every building needs a solid foundation, every website needs a great infrastructure.  Infrastructure Ninjas are rarely seen or heard, but they are omnipresent -- Quickly tackling the gnarly infrastructure issues that crop up in the modern web, and ensuring stability, peace, performance, and prosperity for inhabinants the modern web.",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/infrastructure_ninja.9eeaa8aa3d7f.svg"
+    "link": "https://gitcoin.co/kudos/55/infrastructure_ninja",
+    "name": "Infrastructure Ninja",
+    "description": "Just like every building needs a solid foundation, every website needs a great infrastructure.  Infrastructure Ninjas are rarely seen or heard, but they are omnipresent -- Quickly tackling the gnarly infrastructure issues that crop up in the modern web, and ensuring stability, peace, performance, and prosperity for inhabinants the modern web.",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/infrastructure_ninja.9eeaa8aa3d7f.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/396/steampunk",
-    "card-name": "Steampunk",
-    "card-description": "This one is just for fun and appreciation of steampunk artwork",
-    "card-quality": "Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/steampunk.f804bfeb77ed.svg"
+    "link": "https://gitcoin.co/kudos/396/steampunk",
+    "name": "Steampunk",
+    "description": "This one is just for fun and appreciation of steampunk artwork",
+    "quality": "Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/steampunk.f804bfeb77ed.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/186/red_stapler",
-    "card-name": "Red Stapler",
-    "card-description": "Has anyone seen my stapler?",
-    "card-quality": "Special",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/red_stapler.e0fe6e7c3410.svg"
+    "link": "https://gitcoin.co/kudos/186/red_stapler",
+    "name": "Red Stapler",
+    "description": "Has anyone seen my stapler?",
+    "quality": "Special",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/red_stapler.e0fe6e7c3410.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/112/shill_colorado",
-    "card-name": "Shill Colorado",
-    "card-description": "For your friends & family who just love to shill Colorado",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/shill_colorado.132e970e2da6.svg"
+    "link": "https://gitcoin.co/kudos/112/shill_colorado",
+    "name": "Shill Colorado",
+    "description": "For your friends & family who just love to shill Colorado",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/shill_colorado.132e970e2da6.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/84/mongo_db_programmer",
-    "card-name": "Mongo Db Programmer",
-    "card-description": "Want someone who can work efficiently with MongoDB?  Look no further than owners of this badge.",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/mongo_db_programmer.5bfe1cfd9d9b.svg"
+    "link": "https://gitcoin.co/kudos/84/mongo_db_programmer",
+    "name": "Mongo Db Programmer",
+    "description": "Want someone who can work efficiently with MongoDB?  Look no further than owners of this badge.",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/mongo_db_programmer.5bfe1cfd9d9b.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/484/cypherpunk_mind",
-    "card-name": "Cypherpunk Mind",
-    "card-description": "This Kudos is for those who have a cyberphunk mind.  Know someone who is the brains of the operation?  Send them this Kudos.",
-    "card-quality": "Special",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/cyberpunk_helm.2c35e37d78e9.svg"
+    "link": "https://gitcoin.co/kudos/484/cypherpunk_mind",
+    "name": "Cypherpunk Mind",
+    "description": "This Kudos is for those who have a cyberphunk mind.  Know someone who is the brains of the operation?  Send them this Kudos.",
+    "quality": "Special",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/cyberpunk_helm.2c35e37d78e9.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/54/javascript_master_scriber",
-    "card-name": "Javascript Master Scriber",
-    "card-description": "Remember the web in the days before javascript?  No?  Neither can we!  Javascript powers the modern web, top to bottom and we <3 the usage of javascript here at Gitcoin.  Owners of this badge are masters of the asyncronous, event driven, programming language and specifically, of client side scripting!",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/javascript_master_scriber.b5de31f9b663.svg"
+    "link": "https://gitcoin.co/kudos/54/javascript_master_scriber",
+    "name": "Javascript Master Scriber",
+    "description": "Remember the web in the days before javascript?  No?  Neither can we!  Javascript powers the modern web, top to bottom and we <3 the usage of javascript here at Gitcoin.  Owners of this badge are masters of the asyncronous, event driven, programming language and specifically, of client side scripting!",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/javascript_master_scriber.b5de31f9b663.svg"
   },
   {
-    "card-href": "https://github.com/gitcoinco/kudosbadges/issues/new",
-    "card-name": null,
-    "card-description": null,
-    "card-quality": null,
-    "card-image-src": ""
+    "link": "https://github.com/gitcoinco/kudosbadges/issues/new",
+    "name": null,
+    "description": null,
+    "quality": null,
+    "imagesrc": ""
   },
   {
-    "card-href": "https://gitcoin.co/kudos/94/node_js_wizard",
-    "card-name": "Node Js Wizard",
-    "card-description": "Remember the bad old days in the web before javascript?  Javascript powers the modern web, top to bottom and we <3 the usage of javascript here at Gitcoin.  Owners of this badge are masters of the asyncronous, event driven, programming language and specifically, of server side scripting!",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/node_js_wizard.49e636ec4267.svg"
+    "link": "https://gitcoin.co/kudos/94/node_js_wizard",
+    "name": "Node Js Wizard",
+    "description": "Remember the bad old days in the web before javascript?  Javascript powers the modern web, top to bottom and we <3 the usage of javascript here at Gitcoin.  Owners of this badge are masters of the asyncronous, event driven, programming language and specifically, of server side scripting!",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/node_js_wizard.49e636ec4267.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/62/ruby_gem",
-    "card-name": "Ruby Gem",
-    "card-description": "Is there anyone who knows more about 'gem's than someone who's good enough at Ruby, to be a 'Gem' themselves? Owners of this badge are known for their mastery of the Ruby programming language.",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/ruby_gem.0eb8d056c501.svg"
+    "link": "https://gitcoin.co/kudos/62/ruby_gem",
+    "name": "Ruby Gem",
+    "description": "Is there anyone who knows more about 'gem's than someone who's good enough at Ruby, to be a 'Gem' themselves? Owners of this badge are known for their mastery of the Ruby programming language.",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/ruby_gem.0eb8d056c501.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/159/philosophers_stone",
-    "card-name": "Philosophers Stone",
-    "card-description": "For whomever makes the greatest contribution to the Status Hackathon Philospher Circle at the Status Hackathon 2018",
-    "card-quality": "Legendary",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/philosophers.b920fbf91d1e.svg"
+    "link": "https://gitcoin.co/kudos/159/philosophers_stone",
+    "name": "Philosophers Stone",
+    "description": "For whomever makes the greatest contribution to the Status Hackathon Philospher Circle at the Status Hackathon 2018",
+    "quality": "Legendary",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/philosophers.b920fbf91d1e.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/120/craftsman",
-    "card-name": "Craftsman",
-    "card-description": "Know a crafts-man?  A craftsperson kudos is a great way to celebrate the tools we use and the people that use them!",
-    "card-quality": "Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/craftsman.190484704711.svg"
+    "link": "https://gitcoin.co/kudos/120/craftsman",
+    "name": "Craftsman",
+    "description": "Know a crafts-man?  A craftsperson kudos is a great way to celebrate the tools we use and the people that use them!",
+    "quality": "Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/craftsman.190484704711.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/96/pythonista",
-    "card-name": "Pythonista",
-    "card-description": "Pythonistas are loyal users of the Python programming language.",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/pythonista.e7a851569145.svg"
+    "link": "https://gitcoin.co/kudos/96/pythonista",
+    "name": "Pythonista",
+    "description": "Pythonistas are loyal users of the Python programming language.",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/pythonista.e7a851569145.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/86/fast_turn_around",
-    "card-name": "Fast Turn Around",
-    "card-description": "Want someone who ships deliverables quick?  Owners of this 'fast turnaround' kudos are the first place to look!",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/fast_turn_around.6892e7e1c95a.svg"
+    "link": "https://gitcoin.co/kudos/86/fast_turn_around",
+    "name": "Fast Turn Around",
+    "description": "Want someone who ships deliverables quick?  Owners of this 'fast turnaround' kudos are the first place to look!",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/fast_turn_around.6892e7e1c95a.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/339/c++_scientist",
-    "card-name": "C++ Scientist",
-    "card-description": "Need a programmer for your performant, object oriented, project that can manage their own memory and manage on-scope and on-budget!? Look no further; Owners of this badge are renown for their work in the C++ programming language.",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/cpp_scientist.8d1834d81cee.svg"
+    "link": "https://gitcoin.co/kudos/339/c++_scientist",
+    "name": "C++ Scientist",
+    "description": "Need a programmer for your performant, object oriented, project that can manage their own memory and manage on-scope and on-budget!? Look no further; Owners of this badge are renown for their work in the C++ programming language.",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/cpp_scientist.8d1834d81cee.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/115/blockchain_utopia",
-    "card-name": "Blockchain Utopia",
-    "card-description": "Got a Utopian vision for a blockchain-ized world?  This badge is for you.",
-    "card-quality": "Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/blockchain_utopia.027288f14506.svg"
+    "link": "https://gitcoin.co/kudos/115/blockchain_utopia",
+    "name": "Blockchain Utopia",
+    "description": "Got a Utopian vision for a blockchain-ized world?  This badge is for you.",
+    "quality": "Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/blockchain_utopia.027288f14506.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/171/trusted_contributor",
-    "card-name": "Trusted Contributor",
-    "card-description": "Limited Edition Cellarius Kudos!A trusted contributor checks all the boxes of being not only an expert in their domain but reliable and dependable. They thrive on being called upon and fulfilling any tasked mission.",
-    "card-quality": "Very Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/cellarius/trusted_contributor.2139410d0bd1.svg"
+    "link": "https://gitcoin.co/kudos/171/trusted_contributor",
+    "name": "Trusted Contributor",
+    "description": "Limited Edition Cellarius Kudos!A trusted contributor checks all the boxes of being not only an expert in their domain but reliable and dependable. They thrive on being called upon and fulfilling any tasked mission.",
+    "quality": "Very Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/cellarius/trusted_contributor.2139410d0bd1.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/588/ether_gun",
-    "card-name": "Ether Gun",
-    "card-description": "Know someone who produces and distributes value at a rapid clip?  Send them the Ether Gun Kudos!",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/ethergun.78c026ad0d7f.svg"
+    "link": "https://gitcoin.co/kudos/588/ether_gun",
+    "name": "Ether Gun",
+    "description": "Know someone who produces and distributes value at a rapid clip?  Send them the Ether Gun Kudos!",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/ethergun.78c026ad0d7f.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/620/top_five_leaderboard",
-    "card-name": "Top Five Leaderboard",
-    "card-description": "This kudos is for those who have been in the top 5 of the Gitcoin Leaderboard at gitcoin.co/leaderboard",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/trophy_5.b74633117057.svg"
+    "link": "https://gitcoin.co/kudos/620/top_five_leaderboard",
+    "name": "Top Five Leaderboard",
+    "description": "This kudos is for those who have been in the top 5 of the Gitcoin Leaderboard at gitcoin.co/leaderboard",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/trophy_5.b74633117057.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/178/foundation",
-    "card-name": "Foundation",
-    "card-description": "Limited Edition Cellarius Kudos!  This kudos is for those who lay a solid foundation.",
-    "card-quality": "Very Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/cellarius/Triangle.2dcf2d878fc8.svg"
+    "link": "https://gitcoin.co/kudos/178/foundation",
+    "name": "Foundation",
+    "description": "Limited Edition Cellarius Kudos!  This kudos is for those who lay a solid foundation.",
+    "quality": "Very Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/cellarius/Triangle.2dcf2d878fc8.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/113/devcon_4",
-    "card-name": "Devcon 4",
-    "card-description": "For your friends & family who came to Devcon 4 with you.",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/devcon_4.032803ac97bd.svg"
+    "link": "https://gitcoin.co/kudos/113/devcon_4",
+    "name": "Devcon 4",
+    "description": "For your friends & family who came to Devcon 4 with you.",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/devcon_4.032803ac97bd.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/135/firefighter",
-    "card-name": "Firefighter",
-    "card-description": "Know someone who's great at putting out fires?  This firefighter badge is for them!",
-    "card-quality": "Special",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/firefighter.9e2c23f98e44.svg"
+    "link": "https://gitcoin.co/kudos/135/firefighter",
+    "name": "Firefighter",
+    "description": "Know someone who's great at putting out fires?  This firefighter badge is for them!",
+    "quality": "Special",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/firefighter.9e2c23f98e44.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/65/drupal_brainiac",
-    "card-name": "Drupal Brainiac",
-    "card-description": "Want to ship content on the modern web?  Drupal is where it's at.  The leading Open Source CMS has provided tons of value to the modern web, and adding a Drupal Brainiac to your project is a sure fire way to make your CMS fly!",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/drupal_brainiac.b6d3101abf05.svg"
+    "link": "https://gitcoin.co/kudos/65/drupal_brainiac",
+    "name": "Drupal Brainiac",
+    "description": "Want to ship content on the modern web?  Drupal is where it's at.  The leading Open Source CMS has provided tons of value to the modern web, and adding a Drupal Brainiac to your project is a sure fire way to make your CMS fly!",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/drupal_brainiac.b6d3101abf05.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/82/relase_early_and_often",
-    "card-name": "Relase Early And Often",
-    "card-description": "Want to work with someone who RERO (Relase Early and Often)? RERO is a software development philosophy that emphasizes the importance of early and frequent releases.  This creates a tight feedback looop between devs and testers.  Want someone who releases frequently?  Owners of this badge are who you'll want to talk to!",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/release_early_and_often.aa20a8e942ee.svg"
+    "link": "https://gitcoin.co/kudos/82/relase_early_and_often",
+    "name": "Relase Early And Often",
+    "description": "Want to work with someone who RERO (Relase Early and Often)? RERO is a software development philosophy that emphasizes the importance of early and frequent releases.  This creates a tight feedback looop between devs and testers.  Want someone who releases frequently?  Owners of this badge are who you'll want to talk to!",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/release_early_and_often.aa20a8e942ee.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/116/collaboration_robot",
-    "card-name": "Collaboration Robot",
-    "card-description": "Collab Robots push the envelope. They make connections and find ways to build new ideas. With our powers, we can develop collabs with the smallest or largest machines.",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/collaboration_robot.69bae491f5d1.svg"
+    "link": "https://gitcoin.co/kudos/116/collaboration_robot",
+    "name": "Collaboration Robot",
+    "description": "Collab Robots push the envelope. They make connections and find ways to build new ideas. With our powers, we can develop collabs with the smallest or largest machines.",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/collaboration_robot.69bae491f5d1.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/92/redux_programmer",
-    "card-name": "Redux Programmer",
-    "card-description": "Need someone who can deliver value in Redux?  Owners of this badge are renown for their ability to work effciently in Redux.",
-    "card-quality": "Special",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/redux_programmer.b129693a184e.svg"
+    "link": "https://gitcoin.co/kudos/92/redux_programmer",
+    "name": "Redux Programmer",
+    "description": "Need someone who can deliver value in Redux?  Owners of this badge are renown for their ability to work effciently in Redux.",
+    "quality": "Special",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/redux_programmer.b129693a184e.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/132/heros_honour",
-    "card-name": "Heros Honour",
-    "card-description": "Know someone who's a hero?  Send them this video-game-inspired, badge.",
-    "card-quality": "Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/heros_honour.50e783d55123.svg"
+    "link": "https://gitcoin.co/kudos/132/heros_honour",
+    "name": "Heros Honour",
+    "description": "Know someone who's a hero?  Send them this video-game-inspired, badge.",
+    "quality": "Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/heros_honour.50e783d55123.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/99/arts_and_farts",
-    "card-name": "Arts And Farts",
-    "card-description": "Need someone who is going to create beautiful designs of any kind?  Check out the owners of the 'Arts and Farts' Kudos.",
-    "card-quality": "Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/arts_and_farts.f4457fb20e29.svg"
+    "link": "https://gitcoin.co/kudos/99/arts_and_farts",
+    "name": "Arts And Farts",
+    "description": "Need someone who is going to create beautiful designs of any kind?  Check out the owners of the 'Arts and Farts' Kudos.",
+    "quality": "Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/arts_and_farts.f4457fb20e29.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/90/builder_of_a_better_world",
-    "card-name": "Builder Of A Better World",
-    "card-description": "Owners of this badge are obsessed with BUIDLing a better world than what came before them.  We salute them for their dedication to making things better.",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/builder_of_a_better_world.ec16ed893424.svg"
+    "link": "https://gitcoin.co/kudos/90/builder_of_a_better_world",
+    "name": "Builder Of A Better World",
+    "description": "Owners of this badge are obsessed with BUIDLing a better world than what came before them.  We salute them for their dedication to making things better.",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/builder_of_a_better_world.ec16ed893424.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/138/genius",
-    "card-name": "Genius",
-    "card-description": "A Genius bring ideas to life. We activate creative thinking and push problem solving with our words and stories. The world is our experiment lab, and we are players in it.",
-    "card-quality": "Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/a_genius.0dbe7caadbd1.svg"
+    "link": "https://gitcoin.co/kudos/138/genius",
+    "name": "Genius",
+    "description": "A Genius bring ideas to life. We activate creative thinking and push problem solving with our words and stories. The world is our experiment lab, and we are players in it.",
+    "quality": "Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/a_genius.0dbe7caadbd1.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/111/shill_ethereum",
-    "card-name": "Shill Ethereum",
-    "card-description": "For your friends & family who just love to shill Ethereum",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/shill_ethereum.485553aa085e.svg"
+    "link": "https://gitcoin.co/kudos/111/shill_ethereum",
+    "name": "Shill Ethereum",
+    "description": "For your friends & family who just love to shill Ethereum",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/shill_ethereum.485553aa085e.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/66/ruby_on_rails_master",
-    "card-name": "Ruby On Rails Master",
-    "card-description": "Can anyone spin up websites faster than a Ruby on Rails Master? Owners of this badge are legitimately famous for their mastery of MVC website development, DRY, and use of Active Record.",
-    "card-quality": "Special",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/ruby_on_rails_master.4ff9722dddba.svg"
+    "link": "https://gitcoin.co/kudos/66/ruby_on_rails_master",
+    "name": "Ruby On Rails Master",
+    "description": "Can anyone spin up websites faster than a Ruby on Rails Master? Owners of this badge are legitimately famous for their mastery of MVC website development, DRY, and use of Active Record.",
+    "quality": "Special",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/ruby_on_rails_master.4ff9722dddba.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/189/kauri_pioneer",
-    "card-name": "Kauri Pioneer",
-    "card-description": "Cheers to you, one of the first Kauri contributors!",
-    "card-quality": "Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/kauri_1.d335211161dc.svg"
+    "link": "https://gitcoin.co/kudos/189/kauri_pioneer",
+    "name": "Kauri Pioneer",
+    "description": "Cheers to you, one of the first Kauri contributors!",
+    "quality": "Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/kauri_1.d335211161dc.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/63/angular_royalty",
-    "card-name": "Angular Royalty",
-    "card-description": "AngularJS is a great extension of javsacript, and we love how it lets us declare dynamic views for our dApps!  Owners of this badge are royalty of the AngularJS programming framework!",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/angular_royalty.2e0b2bf5aec2.svg"
+    "link": "https://gitcoin.co/kudos/63/angular_royalty",
+    "name": "Angular Royalty",
+    "description": "AngularJS is a great extension of javsacript, and we love how it lets us declare dynamic views for our dApps!  Owners of this badge are royalty of the AngularJS programming framework!",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/angular_royalty.2e0b2bf5aec2.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/101/html_celebrity",
-    "card-name": "Html Celebrity",
-    "card-description": "Looking for someone who writes clean, standards-compliant, HTML?  Look no further than this HTML Celebrity kudos.",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/html_celebrity.31addff7ebe9.svg"
+    "link": "https://gitcoin.co/kudos/101/html_celebrity",
+    "name": "Html Celebrity",
+    "description": "Looking for someone who writes clean, standards-compliant, HTML?  Look no further than this HTML Celebrity kudos.",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/html_celebrity.31addff7ebe9.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/393/octo_kitteh",
-    "card-name": "Octo Kitteh",
-    "card-description": "Know someone who's a pro at git?  Know someone who's such an efficient worker that they've probably got eight handes?  This kudos is for htem.",
-    "card-quality": "Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/git_octocat.d4354383f945.svg"
+    "link": "https://gitcoin.co/kudos/393/octo_kitteh",
+    "name": "Octo Kitteh",
+    "description": "Know someone who's a pro at git?  Know someone who's such an efficient worker that they've probably got eight handes?  This kudos is for htem.",
+    "quality": "Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/git_octocat.d4354383f945.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/123/focus",
-    "card-name": "Focus",
-    "card-description": "Know someone who has extremely good focus?  Send them a 'kudos' kudos.",
-    "card-quality": "Very Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/focus.ff0f2c4e1a01.svg"
+    "link": "https://gitcoin.co/kudos/123/focus",
+    "name": "Focus",
+    "description": "Know someone who has extremely good focus?  Send them a 'kudos' kudos.",
+    "quality": "Very Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/focus.ff0f2c4e1a01.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/175/heart",
-    "card-name": "Heart",
-    "card-description": "Limited Edition Cellarius Kudos!  This one is for contributors who show a lot of heart!",
-    "card-quality": "Very Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/cellarius/heart.adc090ed0fce.svg"
+    "link": "https://gitcoin.co/kudos/175/heart",
+    "name": "Heart",
+    "description": "Limited Edition Cellarius Kudos!  This one is for contributors who show a lot of heart!",
+    "quality": "Very Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/cellarius/heart.adc090ed0fce.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/485/augment",
-    "card-name": "Augment",
-    "card-description": "Choose your tools wisely young hero; for they will be important problem solvers for you during your web3 journey.",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/cyberpunk_augment.edec54b3a5b0.svg"
+    "link": "https://gitcoin.co/kudos/485/augment",
+    "name": "Augment",
+    "description": "Choose your tools wisely young hero; for they will be important problem solvers for you during your web3 journey.",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/cyberpunk_augment.edec54b3a5b0.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/165/eth_hacker",
-    "card-name": "Eth Hacker",
-    "card-description": "You create value out of bits as an ETH Hacker!",
-    "card-quality": "Very Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/eth_hacker2.cb5aa556312c.svg"
+    "link": "https://gitcoin.co/kudos/165/eth_hacker",
+    "name": "Eth Hacker",
+    "description": "You create value out of bits as an ETH Hacker!",
+    "quality": "Very Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/eth_hacker2.cb5aa556312c.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/64/qa_ninja",
-    "card-name": "Qa Ninja",
-    "card-description": "Rarely heard or seen, the modern QA Ninja is a hyper-efficient finder and reporter of bugs.  Got a number input on an HTML form?  They'll find a way to type 'LIZARD' into it?  Buffer overflow somewhere in your dApp?  They'll find it.  QA Ninjas make the web bug free, and we salute them!",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/qa_ninja.4ea6be335fee.svg"
+    "link": "https://gitcoin.co/kudos/64/qa_ninja",
+    "name": "Qa Ninja",
+    "description": "Rarely heard or seen, the modern QA Ninja is a hyper-efficient finder and reporter of bugs.  Got a number input on an HTML form?  They'll find a way to type 'LIZARD' into it?  Buffer overflow somewhere in your dApp?  They'll find it.  QA Ninjas make the web bug free, and we salute them!",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/qa_ninja.4ea6be335fee.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/87/css_gentle(wo)man",
-    "card-name": "Css Gentle(wo)man",
-    "card-description": "CSS is one of the foundations of the modern web.  Owners of this badge are masters of building beautiful, mobile-friendly, products.",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/css_gentle(wo)man.d973ff1df569.svg"
+    "link": "https://gitcoin.co/kudos/87/css_gentle(wo)man",
+    "name": "Css Gentle(wo)man",
+    "description": "CSS is one of the foundations of the modern web.  Owners of this badge are masters of building beautiful, mobile-friendly, products.",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/css_gentle(wo)man.d973ff1df569.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/321/its_a_trap",
-    "card-name": "Its A Trap",
-    "card-description": "Its a trap\" is a line from one of your favorite movies.  Send it to the contributors in your life who are good at avoiding traps.",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/trap_avoider.9892b36c2813.svg"
+    "link": "https://gitcoin.co/kudos/321/its_a_trap",
+    "name": "Its A Trap",
+    "description": "Its a trap\" is a line from one of your favorite movies.  Send it to the contributors in your life who are good at avoiding traps.",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/trap_avoider.9892b36c2813.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/323/common_pepe",
-    "card-name": "Common Pepe",
-    "card-description": "The common pepe is the Ethereum community's answer to the Rare Pepe phenomenon.",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/pepe.4b6e2d30611d.svg"
+    "link": "https://gitcoin.co/kudos/323/common_pepe",
+    "name": "Common Pepe",
+    "description": "The common pepe is the Ethereum community's answer to the Rare Pepe phenomenon.",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/pepe.4b6e2d30611d.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/152/good_communicator",
-    "card-name": "Good Communicator",
-    "card-description": "Holders of this badge are great communicators that help to clarify any situation.",
-    "card-quality": "Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/good_communicator.47ab208d41c9.svg"
+    "link": "https://gitcoin.co/kudos/152/good_communicator",
+    "name": "Good Communicator",
+    "description": "Holders of this badge are great communicators that help to clarify any situation.",
+    "quality": "Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/good_communicator.47ab208d41c9.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/324/the_flirterer",
-    "card-name": "The Flirterer",
-    "card-description": "The fliterer can be seen at crypto conferences smoking weed, flirting, and/or talking about prices",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/the_flirterer.54d6d06946f9.svg"
+    "link": "https://gitcoin.co/kudos/324/the_flirterer",
+    "name": "The Flirterer",
+    "description": "The fliterer can be seen at crypto conferences smoking weed, flirting, and/or talking about prices",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/the_flirterer.54d6d06946f9.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/58/jquery_fixer",
-    "card-name": "Jquery Fixer",
-    "card-description": "jQuery is a force in the modern web.  By solving compatibilty issues across browsers, and providing a friendly interface for developing AJAX websites, jQuery won our <3s.  To owners of this badge, thank you for using jQuery to provide Fixes to all!",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/jquery_fixer.a397f2350c82.svg"
+    "link": "https://gitcoin.co/kudos/58/jquery_fixer",
+    "name": "Jquery Fixer",
+    "description": "jQuery is a force in the modern web.  By solving compatibilty issues across browsers, and providing a friendly interface for developing AJAX websites, jQuery won our <3s.  To owners of this badge, thank you for using jQuery to provide Fixes to all!",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/jquery_fixer.a397f2350c82.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/119/gitcoin_sustainer",
-    "card-name": "Gitcoin Sustainer",
-    "card-description": "A very special, limited edition, Kudos, for sustainers of Gitcoin.",
-    "card-quality": "Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/gitcoin_sustainer.90f881bcb465.svg"
+    "link": "https://gitcoin.co/kudos/119/gitcoin_sustainer",
+    "name": "Gitcoin Sustainer",
+    "description": "A very special, limited edition, Kudos, for sustainers of Gitcoin.",
+    "quality": "Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/gitcoin_sustainer.90f881bcb465.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/389/pragmatic",
-    "card-name": "Pragmatic",
-    "card-description": "Got someone in your life who is extremely pragmatic?  This kudos is for them.",
-    "card-quality": "Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/pragmatic.1c58dddff6f0.svg"
+    "link": "https://gitcoin.co/kudos/389/pragmatic",
+    "name": "Pragmatic",
+    "description": "Got someone in your life who is extremely pragmatic?  This kudos is for them.",
+    "quality": "Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/pragmatic.1c58dddff6f0.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/141/tools",
-    "card-name": "Tools",
-    "card-description": "This kudos is for the person creates the best tools!",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/tools.57f93b659eac.svg"
+    "link": "https://gitcoin.co/kudos/141/tools",
+    "name": "Tools",
+    "description": "This kudos is for the person creates the best tools!",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/tools.57f93b659eac.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/72/above_and_beyond",
-    "card-name": "Above And Beyond",
-    "card-description": "Owners of this badge are always under-promising and over-delivering.  They go 'above and beyond' for their clients!",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/above_and_beyond.803074b4cba8.svg"
+    "link": "https://gitcoin.co/kudos/72/above_and_beyond",
+    "name": "Above And Beyond",
+    "description": "Owners of this badge are always under-promising and over-delivering.  They go 'above and beyond' for their clients!",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/above_and_beyond.803074b4cba8.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/130/mana_from_heavens",
-    "card-name": "Mana From Heavens",
-    "card-description": "Open Source Software is mana from the heavens.  Celebrate someone who's provided value to your lift with this Kudos badge.",
-    "card-quality": "Special",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/mana_from_heavens.ab1e8e25b096.svg"
+    "link": "https://gitcoin.co/kudos/130/mana_from_heavens",
+    "name": "Mana From Heavens",
+    "description": "Open Source Software is mana from the heavens.  Celebrate someone who's provided value to your lift with this Kudos badge.",
+    "quality": "Special",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/mana_from_heavens.ab1e8e25b096.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/167/bug_eliminator",
-    "card-name": "Bug Eliminator",
-    "card-description": "Limited Edition Cellarius Kudos! A bug eliminator skill is core to an efficient system or service. They effortlessly remove and resolve any bug with speed.",
-    "card-quality": "Very Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/cellarius/bug_eliminator.4dfdf8b5fcac.svg"
+    "link": "https://gitcoin.co/kudos/167/bug_eliminator",
+    "name": "Bug Eliminator",
+    "description": "Limited Edition Cellarius Kudos! A bug eliminator skill is core to an efficient system or service. They effortlessly remove and resolve any bug with speed.",
+    "quality": "Very Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/cellarius/bug_eliminator.4dfdf8b5fcac.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/137/big_bot",
-    "card-name": "Big Bot",
-    "card-description": "Just for fun, this Gitcoin Robot is a way of celebrating the contributors in your life.",
-    "card-quality": "Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/robot_large.1b91802cc667.svg"
+    "link": "https://gitcoin.co/kudos/137/big_bot",
+    "name": "Big Bot",
+    "description": "Just for fun, this Gitcoin Robot is a way of celebrating the contributors in your life.",
+    "quality": "Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/robot_large.1b91802cc667.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/103/ember_master",
-    "card-name": "Ember Master",
-    "card-description": "Ember is a great extension of javsacript, and we love how it lets use declare dynamic views for our dApps!  Owners of this badge are masters of the Ember programming framework!",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/ember_master.d014be75b77b.svg"
+    "link": "https://gitcoin.co/kudos/103/ember_master",
+    "name": "Ember Master",
+    "description": "Ember is a great extension of javsacript, and we love how it lets use declare dynamic views for our dApps!  Owners of this badge are masters of the Ember programming framework!",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/ember_master.d014be75b77b.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/128/crystal_ball",
-    "card-name": "Crystal Ball",
-    "card-description": "A crystal ball is just a way to predict the future, but hidden inside is a compelling story. Crystal Ball holders are visionaries that transform what%uFFFDs happening into an understandable future.",
-    "card-quality": "Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/growoss_crystalball.05670356ebc4.svg"
+    "link": "https://gitcoin.co/kudos/128/crystal_ball",
+    "name": "Crystal Ball",
+    "description": "A crystal ball is just a way to predict the future, but hidden inside is a compelling story. Crystal Ball holders are visionaries that transform what%uFFFDs happening into an understandable future.",
+    "quality": "Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/growoss_crystalball.05670356ebc4.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/81/cleanest_code",
-    "card-name": "Cleanest Code",
-    "card-description": "Want to work with someone who is famous for having squeaky clean code?  Look no further than owners of the 'Cleanest Code' Kudos.",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/cleanest_code.d77ad3650a13.svg"
+    "link": "https://gitcoin.co/kudos/81/cleanest_code",
+    "name": "Cleanest Code",
+    "description": "Want to work with someone who is famous for having squeaky clean code?  Look no further than owners of the 'Cleanest Code' Kudos.",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/cleanest_code.d77ad3650a13.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/622/top_three_leaderboard",
-    "card-name": "Top Three Leaderboard",
-    "card-description": "This kudos is for those who have been in the top 3 of the Gitcoin Leaderboard at gitcoin.co/leaderboard",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/trophy_3.ed771f9f0072.svg"
+    "link": "https://gitcoin.co/kudos/622/top_three_leaderboard",
+    "name": "Top Three Leaderboard",
+    "description": "This kudos is for those who have been in the top 3 of the Gitcoin Leaderboard at gitcoin.co/leaderboard",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/trophy_3.ed771f9f0072.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/57/do_more_faster",
-    "card-name": "Do More Faster",
-    "card-description": "Is there anything better than working with someone who can rapidly iterate?  The modern web is built by Agile, and favors experimentation and iteration.  Owners of the Do More Faster badge, well, they DO MORE FASTER!",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/do_more_faster.43839ed493d9.svg"
+    "link": "https://gitcoin.co/kudos/57/do_more_faster",
+    "name": "Do More Faster",
+    "description": "Is there anything better than working with someone who can rapidly iterate?  The modern web is built by Agile, and favors experimentation and iteration.  Owners of the Do More Faster badge, well, they DO MORE FASTER!",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/do_more_faster.43839ed493d9.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/118/to_the_moon",
-    "card-name": "To The Moon",
-    "card-description": "This kudos is for users who are taking the ecosystem to the moon!",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/climb_the_ladder.bba4ad80c5b8.svg"
+    "link": "https://gitcoin.co/kudos/118/to_the_moon",
+    "name": "To The Moon",
+    "description": "This kudos is for users who are taking the ecosystem to the moon!",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/climb_the_ladder.bba4ad80c5b8.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/150/freedom",
-    "card-name": "Freedom",
-    "card-description": "This bird is free to work on what it wants, when it wants. Making impact where they feel necessary, and always having leverage over your life?  Then this kudos is for you!",
-    "card-quality": "Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/birds.16ea05e1ccd7.svg"
+    "link": "https://gitcoin.co/kudos/150/freedom",
+    "name": "Freedom",
+    "description": "This bird is free to work on what it wants, when it wants. Making impact where they feel necessary, and always having leverage over your life?  Then this kudos is for you!",
+    "quality": "Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/birds.16ea05e1ccd7.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/124/powertool_user",
-    "card-name": "Powertool User",
-    "card-description": "Know someone who's great at setting up and using power tools!?  Send them a powertool user kudos.",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/powertool_user.15c9245a3d14.svg"
+    "link": "https://gitcoin.co/kudos/124/powertool_user",
+    "name": "Powertool User",
+    "description": "Know someone who's great at setting up and using power tools!?  Send them a powertool user kudos.",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/powertool_user.15c9245a3d14.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/93/helping_hand",
-    "card-name": "Helping Hand",
-    "card-description": "Need a helping hand for your project.  Start with an owner of this 'Helping Hand' badge!",
-    "card-quality": "Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/helping_hand.cca7f3608f12.svg"
+    "link": "https://gitcoin.co/kudos/93/helping_hand",
+    "name": "Helping Hand",
+    "description": "Need a helping hand for your project.  Start with an owner of this 'Helping Hand' badge!",
+    "quality": "Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/helping_hand.cca7f3608f12.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/148/backend_star",
-    "card-name": "Backend Star",
-    "card-description": "A shining star of all things hidden in the backend of applications.",
-    "card-quality": "Special",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/backend_star.dc24242064b0.svg"
+    "link": "https://gitcoin.co/kudos/148/backend_star",
+    "name": "Backend Star",
+    "description": "A shining star of all things hidden in the backend of applications.",
+    "quality": "Special",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/backend_star.dc24242064b0.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/127/direct",
-    "card-name": "Direct",
-    "card-description": "Holders of this badge seek the most straightforward ways to solve problem. Our great challenge is finding the shortest path to the truth",
-    "card-quality": "Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/direct.57b4d0060836.svg"
+    "link": "https://gitcoin.co/kudos/127/direct",
+    "name": "Direct",
+    "description": "Holders of this badge seek the most straightforward ways to solve problem. Our great challenge is finding the shortest path to the truth",
+    "quality": "Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/direct.57b4d0060836.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/153/gitcoin_tree",
-    "card-name": "Gitcoin Tree",
-    "card-description": "A tree that sustains open source.  Just for fun",
-    "card-quality": "Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/gitcoin_tree.3cd676a2e60b.svg"
+    "link": "https://gitcoin.co/kudos/153/gitcoin_tree",
+    "name": "Gitcoin Tree",
+    "description": "A tree that sustains open source.  Just for fun",
+    "quality": "Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/gitcoin_tree.3cd676a2e60b.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/61/unix_philosophy",
-    "card-name": "Unix Philosophy",
-    "card-description": "Owners of this badge 'Write programs that do one thing and do it well'; just like the UNIX OS!",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/unix_philosophy.fbe14b0e9a5b.svg"
+    "link": "https://gitcoin.co/kudos/61/unix_philosophy",
+    "name": "Unix Philosophy",
+    "description": "Owners of this badge 'Write programs that do one thing and do it well'; just like the UNIX OS!",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/unix_philosophy.fbe14b0e9a5b.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/325/attaboy",
-    "card-name": "Attaboy",
-    "card-description": "Attaboy is the Kudos for those who give the most attaboy's.. The most prolific senders of Kudos deserve an attaboy Kudos!",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/attaboy.8f696dcaa367.svg"
+    "link": "https://gitcoin.co/kudos/325/attaboy",
+    "name": "Attaboy",
+    "description": "Attaboy is the Kudos for those who give the most attaboy's.. The most prolific senders of Kudos deserve an attaboy Kudos!",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/attaboy.8f696dcaa367.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/91/c_debugger",
-    "card-name": "C Debugger",
-    "card-description": "Need a programmer for your performant, object oriented, project that can manage their own memory and manage on-scope and on-budget!? Look no further; Owners of this badge are renown for their work in the C programming language.",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/c_debugger.868f2cf85215.svg"
+    "link": "https://gitcoin.co/kudos/91/c_debugger",
+    "name": "C Debugger",
+    "description": "Need a programmer for your performant, object oriented, project that can manage their own memory and manage on-scope and on-budget!? Look no further; Owners of this badge are renown for their work in the C programming language.",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/c_debugger.868f2cf85215.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/73/design_star",
-    "card-name": "Design Star",
-    "card-description": "Know that feeling early in a project when you're just putting pencil to paper, figuring out what things are going to look like?  Owners of this badge at Design Stars, delivering tons of value on aesthetics, UX, and otherwise shaping the very projects they work on!",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/design_star.8b86d10ccc7b.svg"
+    "link": "https://gitcoin.co/kudos/73/design_star",
+    "name": "Design Star",
+    "description": "Know that feeling early in a project when you're just putting pencil to paper, figuring out what things are going to look like?  Owners of this badge at Design Stars, delivering tons of value on aesthetics, UX, and otherwise shaping the very projects they work on!",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/design_star.8b86d10ccc7b.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/100/react_reactor",
-    "card-name": "React Reactor",
-    "card-description": "React is a force in the modern web, and so are those who can yield it.   Owners of this badge have demonstrated proficiency in React on a past project.",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/react_reactor.482a207bc991.svg"
+    "link": "https://gitcoin.co/kudos/100/react_reactor",
+    "name": "React Reactor",
+    "description": "React is a force in the modern web, and so are those who can yield it.   Owners of this badge have demonstrated proficiency in React on a past project.",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/react_reactor.482a207bc991.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/76/data_savvy",
-    "card-name": "Data Savvy",
-    "card-description": "Being Data-Driven is an asset in today's world.  Owners of this badge have mastered the abiltiy to gather, cultivate, clean, gain insight, and deliver value from a dataset",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/data_savvy.932853052236.svg"
+    "link": "https://gitcoin.co/kudos/76/data_savvy",
+    "name": "Data Savvy",
+    "description": "Being Data-Driven is an asset in today's world.  Owners of this badge have mastered the abiltiy to gather, cultivate, clean, gain insight, and deliver value from a dataset",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/data_savvy.932853052236.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/172/burst_of_energy",
-    "card-name": "Burst Of Energy",
-    "card-description": "Limited Edition Cellarius Kudos!  This kudos is for the contributors to your repo that are a burst of energy!",
-    "card-quality": "Very Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/cellarius/Burst.61c8788ccd23.svg"
+    "link": "https://gitcoin.co/kudos/172/burst_of_energy",
+    "name": "Burst Of Energy",
+    "description": "Limited Edition Cellarius Kudos!  This kudos is for the contributors to your repo that are a burst of energy!",
+    "quality": "Very Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/cellarius/Burst.61c8788ccd23.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/395/party_parrot",
-    "card-name": "Party Parrot",
-    "card-description": "Know someone who's a party to be around?  Then this party parrot is for them!",
-    "card-quality": "Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/party_parrot.ea7164d579f4.svg"
+    "link": "https://gitcoin.co/kudos/395/party_parrot",
+    "name": "Party Parrot",
+    "description": "Know someone who's a party to be around?  Then this party parrot is for them!",
+    "quality": "Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/party_parrot.ea7164d579f4.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/139/vitalik_genesis",
-    "card-name": "Vitalik Genesis",
-    "card-description": "A kudos that celebrates Vitalik's leadership in the Ethereum world.  One day, Gitcoin founder @owocki hopes to work up the courage to give this Kudos to Vitalik.  Perhaps Vitalik will tweet about Gitcoin one day, and @owocki will send it to him then....",
-    "card-quality": "Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/vitalik_genesis.952f32644375.svg"
+    "link": "https://gitcoin.co/kudos/139/vitalik_genesis",
+    "name": "Vitalik Genesis",
+    "description": "A kudos that celebrates Vitalik's leadership in the Ethereum world.  One day, Gitcoin founder @owocki hopes to work up the courage to give this Kudos to Vitalik.  Perhaps Vitalik will tweet about Gitcoin one day, and @owocki will send it to him then....",
+    "quality": "Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/vitalik_genesis.952f32644375.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/53/gitcoin_genesis",
-    "card-name": "Gitcoin Genesis",
-    "card-description": "The Gitcoin Genesis Badge is the rarest of the Gitcoin team badges.  Owners of this badge contributed to Gitcoin in a meaningful way in the way-back-when.",
-    "card-quality": "Legendary",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/gitcoin_genesis.35574e3ff98f.svg"
+    "link": "https://gitcoin.co/kudos/53/gitcoin_genesis",
+    "name": "Gitcoin Genesis",
+    "description": "The Gitcoin Genesis Badge is the rarest of the Gitcoin team badges.  Owners of this badge contributed to Gitcoin in a meaningful way in the way-back-when.",
+    "quality": "Legendary",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/gitcoin_genesis.35574e3ff98f.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/108/go_developer",
-    "card-name": "Go Developer",
-    "card-description": "Looking for someone who can Go Go Go and BUIDL in Go?  This kudos is for you.",
-    "card-quality": "Special",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/go_developer.6a8228167b27.svg"
+    "link": "https://gitcoin.co/kudos/108/go_developer",
+    "name": "Go Developer",
+    "description": "Looking for someone who can Go Go Go and BUIDL in Go?  This kudos is for you.",
+    "quality": "Special",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/go_developer.6a8228167b27.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/147/fontend_wizard",
-    "card-name": "Fontend Wizard",
-    "card-description": "A frontend wizard mixes things up to create a beautiful UX.",
-    "card-quality": "Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/frontend_alchemist.9b97f006c070.svg"
+    "link": "https://gitcoin.co/kudos/147/fontend_wizard",
+    "name": "Fontend Wizard",
+    "description": "A frontend wizard mixes things up to create a beautiful UX.",
+    "quality": "Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/frontend_alchemist.9b97f006c070.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/174/diamond",
-    "card-name": "Diamond",
-    "card-description": "Limited Edition Cellarius Kudos!  This kudos is for any contributor who is a diamond!",
-    "card-quality": "Very Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/cellarius/Diamond.6b58489ebd41.svg"
+    "link": "https://gitcoin.co/kudos/174/diamond",
+    "name": "Diamond",
+    "description": "Limited Edition Cellarius Kudos!  This kudos is for any contributor who is a diamond!",
+    "quality": "Very Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/cellarius/Diamond.6b58489ebd41.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/98/delegation_machine",
-    "card-name": "Delegation Machine",
-    "card-description": "Owners of this badge are known for their ability to clearly articulate requirements, to work with collaborators of all types, and to product value in a team atmosphere!",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/delegation_machine.b43fa717de5c.svg"
+    "link": "https://gitcoin.co/kudos/98/delegation_machine",
+    "name": "Delegation Machine",
+    "description": "Owners of this badge are known for their ability to clearly articulate requirements, to work with collaborators of all types, and to product value in a team atmosphere!",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/delegation_machine.b43fa717de5c.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/134/gitcoin_minibot",
-    "card-name": "Gitcoin Minibot",
-    "card-description": "Just for fun, this Gitcoin Robot is a way of celebrating the contributors in your life.",
-    "card-quality": "Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/robot_small.2d79ed6ac157.svg"
+    "link": "https://gitcoin.co/kudos/134/gitcoin_minibot",
+    "name": "Gitcoin Minibot",
+    "description": "Just for fun, this Gitcoin Robot is a way of celebrating the contributors in your life.",
+    "quality": "Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/robot_small.2d79ed6ac157.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/107/app_dev_all_star",
-    "card-name": "App Dev All Star",
-    "card-description": "Looking for an all star app developer?  This badge is for you.",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/app_dev_all_star.d813be4ccf5b.svg"
+    "link": "https://gitcoin.co/kudos/107/app_dev_all_star",
+    "name": "App Dev All Star",
+    "description": "Looking for an all star app developer?  This badge is for you.",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/app_dev_all_star.d813be4ccf5b.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/151/out_of_this_world_programmer",
-    "card-name": "Out Of This World Programmer",
-    "card-description": "A programmer that moves the ecosystem forward and out of this world.",
-    "card-quality": "Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/out_of_this_world_programmer.cc3f5edfb0e1.svg"
+    "link": "https://gitcoin.co/kudos/151/out_of_this_world_programmer",
+    "name": "Out Of This World Programmer",
+    "description": "A programmer that moves the ecosystem forward and out of this world.",
+    "quality": "Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/out_of_this_world_programmer.cc3f5edfb0e1.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/430/resilience",
-    "card-name": "Resilience",
-    "card-description": "Neither fire, nor ice, nor any weapon of war, nor any of the elements of the earth can get through to the resilient.  Kudos to you and your resilience through adversity of any kind.",
-    "card-quality": "Special",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/resilient.84bdb860043b.svg"
+    "link": "https://gitcoin.co/kudos/430/resilience",
+    "name": "Resilience",
+    "description": "Neither fire, nor ice, nor any weapon of war, nor any of the elements of the earth can get through to the resilient.  Kudos to you and your resilience through adversity of any kind.",
+    "quality": "Special",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/resilient.84bdb860043b.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/52/linux_wizard",
-    "card-name": "Linux Wizard",
-    "card-description": "All hail the Linux Penguin!  Linux is a force in open source, powering millions of websites and businesses.  Owners of this badge are known for their mastery of the Linux family of Operating Systems!",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/linux_wizard.05b4b3248508.svg"
+    "link": "https://gitcoin.co/kudos/52/linux_wizard",
+    "name": "Linux Wizard",
+    "description": "All hail the Linux Penguin!  Linux is a force in open source, powering millions of websites and businesses.  Owners of this badge are known for their mastery of the Linux family of Operating Systems!",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/linux_wizard.05b4b3248508.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/106/mysql_hero",
-    "card-name": "Mysql Hero",
-    "card-description": "MySQL is a great asset to modern web developers.  Looking for someone who knows MySQL?  This badge is for you.",
-    "card-quality": "Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/mysql_hero.cd4774ee764c.svg"
+    "link": "https://gitcoin.co/kudos/106/mysql_hero",
+    "name": "Mysql Hero",
+    "description": "MySQL is a great asset to modern web developers.  Looking for someone who knows MySQL?  This badge is for you.",
+    "quality": "Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/mysql_hero.cd4774ee764c.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/188/shillville",
-    "card-name": "Shillville",
-    "card-description": "Every Shill down in Shillville likes Open Source a lot. This Shillville badge is for the Shills in your life~!",
-    "card-quality": "Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/shillville.4208b568a95b.svg"
+    "link": "https://gitcoin.co/kudos/188/shillville",
+    "name": "Shillville",
+    "description": "Every Shill down in Shillville likes Open Source a lot. This Shillville badge is for the Shills in your life~!",
+    "quality": "Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/shillville.4208b568a95b.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/140/sunburst",
-    "card-name": "Sunburst",
-    "card-description": "This person bring Gitcoin sunshine to OSS projects. We energize the project with what we do.",
-    "card-quality": "Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/sunburst.5e24b75cc3f4.svg"
+    "link": "https://gitcoin.co/kudos/140/sunburst",
+    "name": "Sunburst",
+    "description": "This person bring Gitcoin sunshine to OSS projects. We energize the project with what we do.",
+    "quality": "Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/sunburst.5e24b75cc3f4.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/97/level_up",
-    "card-name": "Level Up",
-    "card-description": "Owners of this badge are known for their ability to Level Up the teams and projects they work on",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/level_up.d04c049f0010.svg"
+    "link": "https://gitcoin.co/kudos/97/level_up",
+    "name": "Level Up",
+    "description": "Owners of this badge are known for their ability to Level Up the teams and projects they work on",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/level_up.d04c049f0010.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/486/gitcoin_ambassador",
-    "card-name": "Gitcoin Ambassador",
-    "card-description": "This Kudos can be awarded only by Gitcoin team, and signifies that one was a Gitcoin ambassador during Fall 2018 and beyond.",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/gitcoin_ambassador.3aaa09ddf1ed.svg"
+    "link": "https://gitcoin.co/kudos/486/gitcoin_ambassador",
+    "name": "Gitcoin Ambassador",
+    "description": "This Kudos can be awarded only by Gitcoin team, and signifies that one was a Gitcoin ambassador during Fall 2018 and beyond.",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/gitcoin_ambassador.3aaa09ddf1ed.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/149/squahser_of_bugs",
-    "card-name": "Squahser Of Bugs",
-    "card-description": "A bug squasher makes bugs dissapear like magic.",
-    "card-quality": "Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/bug_squasher_new.399ccf8473da.svg"
+    "link": "https://gitcoin.co/kudos/149/squahser_of_bugs",
+    "name": "Squahser Of Bugs",
+    "description": "A bug squasher makes bugs dissapear like magic.",
+    "quality": "Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/bug_squasher_new.399ccf8473da.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/131/gitcoin_bot",
-    "card-name": "Gitcoin Bot",
-    "card-description": "Just for fun, this Gitcoin Robot is a way of celebrating the contributors in your life.",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/robot_medium.abe9b0d0c201.svg"
+    "link": "https://gitcoin.co/kudos/131/gitcoin_bot",
+    "name": "Gitcoin Bot",
+    "description": "Just for fun, this Gitcoin Robot is a way of celebrating the contributors in your life.",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/robot_medium.abe9b0d0c201.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/51/hadoop_admiral",
-    "card-name": "Hadoop Admiral",
-    "card-description": "You are a Master of MapReduce, a sultan of reliable, distributed, and scalable computing.  Owners of this badge are infamous for their command of distributing processing of large data sets!",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/hadoop_admiral.9e5069d2be1a.svg"
+    "link": "https://gitcoin.co/kudos/51/hadoop_admiral",
+    "name": "Hadoop Admiral",
+    "description": "You are a Master of MapReduce, a sultan of reliable, distributed, and scalable computing.  Owners of this badge are infamous for their command of distributing processing of large data sets!",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/hadoop_admiral.9e5069d2be1a.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/164/fast_response",
-    "card-name": "Fast Response",
-    "card-description": "For those communicators who are reliable and always quickly responding",
-    "card-quality": "Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/fast_response.8a8445d9c04b.svg"
+    "link": "https://gitcoin.co/kudos/164/fast_response",
+    "name": "Fast Response",
+    "description": "For those communicators who are reliable and always quickly responding",
+    "quality": "Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/fast_response.8a8445d9c04b.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/146/django_cowboy",
-    "card-name": "Django Cowboy",
-    "card-description": "Faster than fast on django.  Better than the best.  HODLers of this badge are great at creating beautiful apps in django!",
-    "card-quality": "Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/django_cowboy.f9fd629ce7ed.svg"
+    "link": "https://gitcoin.co/kudos/146/django_cowboy",
+    "name": "Django Cowboy",
+    "description": "Faster than fast on django.  Better than the best.  HODLers of this badge are great at creating beautiful apps in django!",
+    "quality": "Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/django_cowboy.f9fd629ce7ed.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/185/magical_unicorn",
-    "card-name": "Magical Unicorn",
-    "card-description": "Know someone who's contributions are magical? Send them this kudos to celebrate their contributions :)",
-    "card-quality": "Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/magic_unicorn.0f0ab5150ae3.svg"
+    "link": "https://gitcoin.co/kudos/185/magical_unicorn",
+    "name": "Magical Unicorn",
+    "description": "Know someone who's contributions are magical? Send them this kudos to celebrate their contributions :)",
+    "quality": "Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/magic_unicorn.0f0ab5150ae3.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/89/php_superstar",
-    "card-name": "Php Superstar",
-    "card-description": "PHP -- The og web developers programming language!  Know whats cool about PHP?  It's a recursive acronym, \"PHP Hypertext Processor\".  Want a PHP programmer for your project? Look no further than to owners of this badge!",
-    "card-quality": "Special",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/php_superstar.b0a2d13e7fa5.svg"
+    "link": "https://gitcoin.co/kudos/89/php_superstar",
+    "name": "Php Superstar",
+    "description": "PHP -- The og web developers programming language!  Know whats cool about PHP?  It's a recursive acronym, \"PHP Hypertext Processor\".  Want a PHP programmer for your project? Look no further than to owners of this badge!",
+    "quality": "Special",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/php_superstar.b0a2d13e7fa5.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/121/struck_oil",
-    "card-name": "Struck Oil",
-    "card-description": "Know someone who just unlocks value all the time?  Send them the 'struck oil' Kudos!",
-    "card-quality": "Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/struck_oil.ef3d050bb0f5.svg"
+    "link": "https://gitcoin.co/kudos/121/struck_oil",
+    "name": "Struck Oil",
+    "description": "Know someone who just unlocks value all the time?  Send them the 'struck oil' Kudos!",
+    "quality": "Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/struck_oil.ef3d050bb0f5.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/102/eye_for_detail",
-    "card-name": "Eye For Detail",
-    "card-description": "Looking for someone who has a great eye for detail?  Look no further than this eye for detail kudos badge.",
-    "card-quality": "Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/eye_for_detail.a0570e112701.svg"
+    "link": "https://gitcoin.co/kudos/102/eye_for_detail",
+    "name": "Eye For Detail",
+    "description": "Looking for someone who has a great eye for detail?  Look no further than this eye for detail kudos badge.",
+    "quality": "Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/eye_for_detail.a0570e112701.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/75/handy_woman",
-    "card-name": "Handy Woman",
-    "card-description": "Its great to have a someone handy around your house when your sink, plumbing, electricity, breaks.  Owners of this badge are digital handymen and handywomen.  They fix stuff, and do it with a smile on their face!",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/handy_woman.3a8fbc2f5f05.svg"
+    "link": "https://gitcoin.co/kudos/75/handy_woman",
+    "name": "Handy Woman",
+    "description": "Its great to have a someone handy around your house when your sink, plumbing, electricity, breaks.  Owners of this badge are digital handymen and handywomen.  They fix stuff, and do it with a smile on their face!",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/handy_woman.3a8fbc2f5f05.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/191/web3_advocate",
-    "card-name": "Web3 Advocate",
-    "card-description": "Out with the old and in with the new! Kudos to knowledge sharers, crossing the void from web2 to web3.",
-    "card-quality": "Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/kauri_2.b22f35d8111e.svg"
+    "link": "https://gitcoin.co/kudos/191/web3_advocate",
+    "name": "Web3 Advocate",
+    "description": "Out with the old and in with the new! Kudos to knowledge sharers, crossing the void from web2 to web3.",
+    "quality": "Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/kauri_2.b22f35d8111e.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/133/blockchain_the_world",
-    "card-name": "Blockchain The World",
-    "card-description": "Know someone who's blockchain-izing the world?  Send them this badge.",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/blockchain_the_world.8f32a857a178.svg"
+    "link": "https://gitcoin.co/kudos/133/blockchain_the_world",
+    "name": "Blockchain The World",
+    "description": "Know someone who's blockchain-izing the world?  Send them this badge.",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/blockchain_the_world.8f32a857a178.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/385/creative_cat",
-    "card-name": "Creative Cat",
-    "card-description": "Are you a creative cat?  Are you always getting new, creative, ideas out to your team?  Then this kudos is for you.",
-    "card-quality": "Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/creative_cat.ecf45e34a2fa.svg"
+    "link": "https://gitcoin.co/kudos/385/creative_cat",
+    "name": "Creative Cat",
+    "description": "Are you a creative cat?  Are you always getting new, creative, ideas out to your team?  Then this kudos is for you.",
+    "quality": "Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/creative_cat.ecf45e34a2fa.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/327/zk_snarks",
-    "card-name": "Zk Snarks",
-    "card-description": "For the users of the spooky math ZK Snarks",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/zk_snarks.3fbde90b358c.svg"
+    "link": "https://gitcoin.co/kudos/327/zk_snarks",
+    "name": "Zk Snarks",
+    "description": "For the users of the spooky math ZK Snarks",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/zk_snarks.3fbde90b358c.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/110/bug_squasher",
-    "card-name": "Bug Squasher",
-    "card-description": "Splat goes the bug!  Owners of this badge are proficient at squashing bugs.",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/bug_squasher.ba4772134959.svg"
+    "link": "https://gitcoin.co/kudos/110/bug_squasher",
+    "name": "Bug Squasher",
+    "description": "Splat goes the bug!  Owners of this badge are proficient at squashing bugs.",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/bug_squasher.ba4772134959.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/619/top_four_leaderboard",
-    "card-name": "Top Four Leaderboard",
-    "card-description": "This kudos is for those who have been in the top 4 of the Gitcoin Leaderboard at gitcoin.co/leaderboard",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/trophy_4.4a9f41e39f1c.svg"
+    "link": "https://gitcoin.co/kudos/619/top_four_leaderboard",
+    "name": "Top Four Leaderboard",
+    "description": "This kudos is for those who have been in the top 4 of the Gitcoin Leaderboard at gitcoin.co/leaderboard",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/trophy_4.4a9f41e39f1c.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/114/django_pony",
-    "card-name": "Django Pony",
-    "card-description": "Flying Ponies take risks, inspire other ponies to think big to achieve big ideas. We turn lofty ideas into something tangible. We are fearless about the outcome, sometimes to our own detriment.",
-    "card-quality": "Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/django_pony.84914e567e19.svg"
+    "link": "https://gitcoin.co/kudos/114/django_pony",
+    "name": "Django Pony",
+    "description": "Flying Ponies take risks, inspire other ponies to think big to achieve big ideas. We turn lofty ideas into something tangible. We are fearless about the outcome, sometimes to our own detriment.",
+    "quality": "Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/django_pony.84914e567e19.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/122/freedom",
-    "card-name": "Freedom",
-    "card-description": "Is there someone out there who is creating a better world? A more free world?  Send them the 'freedom' kudos!",
-    "card-quality": "Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/freedom.1855f3eb1db9.svg"
+    "link": "https://gitcoin.co/kudos/122/freedom",
+    "name": "Freedom",
+    "description": "Is there someone out there who is creating a better world? A more free world?  Send them the 'freedom' kudos!",
+    "quality": "Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/freedom.1855f3eb1db9.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/589/helpotron",
-    "card-name": "Helpotron",
-    "card-description": "The helpotron is your handy, helpful, robot friend.  This kudos is for any collaborator that you find really \"helpful\"!",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/helpotron.5c2ee2894104.svg"
+    "link": "https://gitcoin.co/kudos/589/helpotron",
+    "name": "Helpotron",
+    "description": "The helpotron is your handy, helpful, robot friend.  This kudos is for any collaborator that you find really \"helpful\"!",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/helpotron.5c2ee2894104.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/166/backend_architect",
-    "card-name": "Backend Architect",
-    "card-description": "Limited Edition Cellarius Kudos! A backend architect is not only the keeper of the ins and outs but also the holder of information and the intricacies of a system.",
-    "card-quality": "Very Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/cellarius/backend_architect.fbb661fb16de.svg"
+    "link": "https://gitcoin.co/kudos/166/backend_architect",
+    "name": "Backend Architect",
+    "description": "Limited Edition Cellarius Kudos! A backend architect is not only the keeper of the ins and outs but also the holder of information and the intricacies of a system.",
+    "quality": "Very Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/cellarius/backend_architect.fbb661fb16de.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/125/party_robot",
-    "card-name": "Party Robot",
-    "card-description": "Is one of your teammates just a lot of fun to be around?  Send them a Party Robot Kudos.",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/party_robot.b6ced2c5ffdf.svg"
+    "link": "https://gitcoin.co/kudos/125/party_robot",
+    "name": "Party Robot",
+    "description": "Is one of your teammates just a lot of fun to be around?  Send them a Party Robot Kudos.",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/party_robot.b6ced2c5ffdf.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/88/night_owl",
-    "card-name": "Night Owl",
-    "card-description": "Owners of this badge always seem to be up at night, SHIPling product to customers.",
-    "card-quality": "Special",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/night_owl.e27e57a005c4.svg"
+    "link": "https://gitcoin.co/kudos/88/night_owl",
+    "name": "Night Owl",
+    "description": "Owners of this badge always seem to be up at night, SHIPling product to customers.",
+    "quality": "Special",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/night_owl.e27e57a005c4.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/83/grow_open_source",
-    "card-name": "Grow Open Source",
-    "card-description": "Owners of this Kudos embody Gitcoin's mission of 'Grow Open Source'",
-    "card-quality": "Special",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/grow_open_source.3938ed3a78b7.svg"
+    "link": "https://gitcoin.co/kudos/83/grow_open_source",
+    "name": "Grow Open Source",
+    "description": "Owners of this Kudos embody Gitcoin's mission of 'Grow Open Source'",
+    "quality": "Special",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/grow_open_source.3938ed3a78b7.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/429/mad_scientist",
-    "card-name": "Mad Scientist",
-    "card-description": "The mad scientist transforms the core primitives of logic, math, and physics into something greater (and madder) than the sum of it's parts. muhahahhaah!",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/mad_scientist.f7dc1971c05b.svg"
+    "link": "https://gitcoin.co/kudos/429/mad_scientist",
+    "name": "Mad Scientist",
+    "description": "The mad scientist transforms the core primitives of logic, math, and physics into something greater (and madder) than the sum of it's parts. muhahahhaah!",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/mad_scientist.f7dc1971c05b.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/78/always_shipping",
-    "card-name": "Always Shipping",
-    "card-description": "Know who we LOVE working with?  Programmers who are always shipping code!  Always. Be. Shipping.",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/always_shipping.c794a03856bc.svg"
+    "link": "https://gitcoin.co/kudos/78/always_shipping",
+    "name": "Always Shipping",
+    "description": "Know who we LOVE working with?  Programmers who are always shipping code!  Always. Be. Shipping.",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/always_shipping.c794a03856bc.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/69/problem_solver",
-    "card-name": "Problem Solver",
-    "card-description": "Is there anything better than working with someone who can rapidly solve problems?  The modern web is built by Agile, and favors experimentation and iteration.  Owners of this badge, well, they SOLVE PROBLEMS!",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/problem_solver.b2215da6f683.svg"
+    "link": "https://gitcoin.co/kudos/69/problem_solver",
+    "name": "Problem Solver",
+    "description": "Is there anything better than working with someone who can rapidly solve problems?  The modern web is built by Agile, and favors experimentation and iteration.  Owners of this badge, well, they SOLVE PROBLEMS!",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/problem_solver.b2215da6f683.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/173/impossible_object",
-    "card-name": "Impossible Object",
-    "card-description": "Limited Edition Cellarius Kudos!  This kudos is just for fun.  If anyone in your repo is impossibly great contributor, send them this kudos!",
-    "card-quality": "Very Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/cellarius/Circle.02db1490d421.svg"
+    "link": "https://gitcoin.co/kudos/173/impossible_object",
+    "name": "Impossible Object",
+    "description": "Limited Edition Cellarius Kudos!  This kudos is just for fun.  If anyone in your repo is impossibly great contributor, send them this kudos!",
+    "quality": "Very Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/cellarius/Circle.02db1490d421.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/60/collaboration_machine",
-    "card-name": "Collaboration Machine",
-    "card-description": "Is there anything better than working with a collaboration machine?  Known for their communication skills, rapid value delivery, and great attitudes, Collaboration Machines are a huge asset to the modern programming ecosystem!",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/collaboration_machine.cb7c6f95dbe3.svg"
+    "link": "https://gitcoin.co/kudos/60/collaboration_machine",
+    "name": "Collaboration Machine",
+    "description": "Is there anything better than working with a collaboration machine?  Known for their communication skills, rapid value delivery, and great attitudes, Collaboration Machines are a huge asset to the modern programming ecosystem!",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/collaboration_machine.cb7c6f95dbe3.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/117/path_finder",
-    "card-name": "Path Finder",
-    "card-description": "Pathfinders are masters of navigation, able to pave ways forward without hesitation. The amount of trees or woods are no concern - we won%uFFFDt rest until the right path has been uncovered.",
-    "card-quality": "Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/path_finder.035c56311813.svg"
+    "link": "https://gitcoin.co/kudos/117/path_finder",
+    "name": "Path Finder",
+    "description": "Pathfinders are masters of navigation, able to pave ways forward without hesitation. The amount of trees or woods are no concern - we won%uFFFDt rest until the right path has been uncovered.",
+    "quality": "Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/path_finder.035c56311813.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/618/top_two_leaderboard",
-    "card-name": "Top Two Leaderboard",
-    "card-description": "This kudos is for those who have been in the top 2 of the Gitcoin Leaderboard at gitcoin.co/leaderboard",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/trophy_2.de137357fcca.svg"
+    "link": "https://gitcoin.co/kudos/618/top_two_leaderboard",
+    "name": "Top Two Leaderboard",
+    "description": "This kudos is for those who have been in the top 2 of the Gitcoin Leaderboard at gitcoin.co/leaderboard",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/trophy_2.de137357fcca.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/80/c_sharp_programmer",
-    "card-name": "C Sharp Programmer",
-    "card-description": "Need someone who uses strong typing, declarative, functional, code?  Look no further than the owners of the C# Blacksmith Kudos!",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/c_sharp_programmer.1b0f9ce93c36.svg"
+    "link": "https://gitcoin.co/kudos/80/c_sharp_programmer",
+    "name": "C Sharp Programmer",
+    "description": "Need someone who uses strong typing, declarative, functional, code?  Look no further than the owners of the C# Blacksmith Kudos!",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/c_sharp_programmer.1b0f9ce93c36.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/168/bug_finder",
-    "card-name": "Bug Finder",
-    "card-description": "Limited Edition Cellarius Kudos! These holders are insightful, and easily spot and solve the very hidden problems unseen to the naked eye.",
-    "card-quality": "Very Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/cellarius/bug_finder.c9aaa56be408.svg"
+    "link": "https://gitcoin.co/kudos/168/bug_finder",
+    "name": "Bug Finder",
+    "description": "Limited Edition Cellarius Kudos! These holders are insightful, and easily spot and solve the very hidden problems unseen to the naked eye.",
+    "quality": "Very Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/cellarius/bug_finder.c9aaa56be408.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/528/twitter_follower__thanksgiving_turkey_2018",
-    "card-name": "Twitter Follower  Thanksgiving Turkey 2018",
-    "card-description": "This Kudos is a thank you to Gitcoin's twitter followers at https://twitter.com/getgitcoin.",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/turkey.f5fa85c5bb5f.svg"
+    "link": "https://gitcoin.co/kudos/528/twitter_follower__thanksgiving_turkey_2018",
+    "name": "Twitter Follower  Thanksgiving Turkey 2018",
+    "description": "This Kudos is a thank you to Gitcoin's twitter followers at https://twitter.com/getgitcoin.",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/turkey.f5fa85c5bb5f.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/394/mentor",
-    "card-name": "Mentor",
-    "card-description": "Is there smoeone out there who is a great mentor?  Then this kudos is for them",
-    "card-quality": "Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/mentor.2e188d26d5c3.svg"
+    "link": "https://gitcoin.co/kudos/394/mentor",
+    "name": "Mentor",
+    "description": "Is there smoeone out there who is a great mentor?  Then this kudos is for them",
+    "quality": "Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/mentor.2e188d26d5c3.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/77/idea_person",
-    "card-name": "Idea Person",
-    "card-description": "Idea people create value and warmth with the sheer radiance of their ideas.  They think outside the box, they combine left-brain and right brain.  They deliver value by thinking about things in a new way.",
-    "card-quality": "Common",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/idea_person.7275100e12bd.svg"
+    "link": "https://gitcoin.co/kudos/77/idea_person",
+    "name": "Idea Person",
+    "description": "Idea people create value and warmth with the sheer radiance of their ideas.  They think outside the box, they combine left-brain and right brain.  They deliver value by thinking about things in a new way.",
+    "quality": "Common",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/idea_person.7275100e12bd.svg"
   },
   {
-    "card-href": "https://gitcoin.co/kudos/142/hard_worker",
-    "card-name": "Hard Worker",
-    "card-description": "Hard workers are diligent and vigilent at doing the best they can on everything they do.",
-    "card-quality": "Rare",
-    "card-image-src": "https://s.gitcoin.co/static/v2/images/kudos/hard_worker.580a991efd56.svg"
+    "link": "https://gitcoin.co/kudos/142/hard_worker",
+    "name": "Hard Worker",
+    "description": "Hard workers are diligent and vigilent at doing the best they can on everything they do.",
+    "quality": "Rare",
+    "imagesrc": "https://s.gitcoin.co/static/v2/images/kudos/hard_worker.580a991efd56.svg"
   }
 ]
