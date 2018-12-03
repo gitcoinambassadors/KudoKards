@@ -20,23 +20,30 @@ body {
     opacity: 0.7;
 }
 .cta {
-    width: 60%;
+    width: 100%;
     height: auto;
     display: inline-block;
-    padding-left: 20%;
-    padding-right: 20%;
-    background-color: #3e00ff;
+    background-color: #0D0764;
     background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='40' viewBox='0 0 40 40'%3E%3Cg fill-rule='evenodd'%3E%3Cg fill='%23b2b2b2' fill-opacity='0.22'%3E%3Cpath d='M0 38.59l2.83-2.83 1.41 1.41L1.41 40H0v-1.41zM0 1.4l2.83 2.83 1.41-1.41L1.41 0H0v1.41zM38.59 40l-2.83-2.83 1.41-1.41L40 38.59V40h-1.41zM40 1.41l-2.83 2.83-1.41-1.41L38.59 0H40v1.41zM20 18.6l2.83-2.83 1.41 1.41L21.41 20l2.83 2.83-1.41 1.41L20 21.41l-2.83 2.83-1.41-1.41L18.59 20l-2.83-2.83 1.41-1.41L20 18.59z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
     background-attachment: fixed;
-    padding-top: 20px;
-    padding-bottom: 20px;
     color: #fff;    
+    text-align: center;
 }
 .cta > div:first-child {
-    width: 50%;
+    width: 600px;
+    padding-left: 10%;
+    padding-right: 10%;
     height: 100%;
     display: inline-block;
-    padding-right: 50px;
+    background-color: #0D0764;
+    padding-bottom: 30px;
+}
+@media screen and (max-width: 600px) {
+    .cta > div:first-child {
+        width: 90% !important;
+        padding-left: 5% !important;
+        padding-right: 5% !important;
+    }
 }
 .cta > div:first-child > p {
     line-height: 25px;
@@ -55,25 +62,19 @@ body {
 .cta > div:first-child > a:hover {
     opacity: 0.9;
 }
-.cta > div:last-child {
-    width: 50%;
-    height: 100%;
-    display: inline-block;
-    padding-left: 50px;
-}
 .cards {
-    width: 60%;
+    width: 90%;
     height: auto;
     display: inline-block;
-    padding-left: 20%;
-    padding-right: 20%;
+    padding-left: 5%;
+    padding-right: 5%;
     padding-top: 20px;
     padding-bottom: 20px;
     text-align: center;
 }
 .cards > p {
     margin-top: -10px;
-    padding-bottom: 15px;
+    padding-bottom: 5px;
 }
 .cards > ul {
     list-style: none;
@@ -83,6 +84,7 @@ body {
     display: inline-block;
     margin-left: 5px;
     margin-right: 5px;
+    margin-bottom: 20px;
 }
 .cards > ul > li > a {
     text-decoration: none;
@@ -98,7 +100,7 @@ body {
     opacity: 0.85;
 }
 .cards > div {
-    padding-top: 30px;
+    padding-top: 10px;
 }
 .kudo-card {
     height: 400px;
@@ -146,13 +148,16 @@ body {
 }
 .kudo-card > div:last-child > a {
     text-decoration: none;
-    background-color: #3e00ff;
+    background-color: #05b66a;
     padding-top: 20px;
     padding-bottom: 20px;
     padding-left: 120px;
     padding-right: 120px;
     color: #fff;
     border-radius: 5px;
+}
+.kudo-card > div:last-child > a:hover {
+    opacity: 0.8;
 }
 .footer {
     width: 100%;
