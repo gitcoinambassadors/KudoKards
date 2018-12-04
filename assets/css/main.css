@@ -168,17 +168,29 @@ body {
     height: 75px;
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
-    padding-top: 15px;
+    padding-top: 5px;
 }
-.kudo-card > div:last-child > a {
+.kudo-card > div:last-child > a:first-child {
+    text-decoration: none;
+    background-color: #cccccc;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 45%;
+    color: #fff;
+    border-radius: 5px;
+    display: inline-block;
+    margin-right: 5px;
+}
+.kudo-card > div:last-child > a:last-child {
     text-decoration: none;
     background-color: #05b66a;
     padding-top: 20px;
     padding-bottom: 20px;
-    padding-left: 120px;
-    padding-right: 120px;
+    width: 45%;
     color: #fff;
     border-radius: 5px;
+    display: inline-block;
+    margin-left: 5px;
 }
 .kudo-card > div:last-child > a:hover {
     opacity: 0.8;
