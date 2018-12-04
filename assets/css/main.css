@@ -103,7 +103,7 @@ body {
     padding-top: 10px;
 }
 .kudo-card {
-    height: 400px;
+    height: 450px;
     width: 300px;
     color: #000;
     border-radius: 5px;
@@ -126,9 +126,10 @@ body {
 }
 .kudo-card > div:nth-child(2) {
     width: 100%;
-    height: 150px;
+    height: 200px;
     display: inline-block;
     text-align: left;
+
 }
 .kudo-card > div:nth-child(2) > h3 {
     padding-left: 10px;
@@ -137,6 +138,13 @@ body {
 .kudo-card > div:nth-child(2) > p {
     padding-left: 10px;
     padding-right: 10px;
+    max-height: 4.8em;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.readMore {
+    padding-left: 10px;
+    text-decoration: none;
 }
 .kudo-card > div:last-child {
     width: 100%;
@@ -158,6 +166,12 @@ body {
 }
 .kudo-card > div:last-child > a:hover {
     opacity: 0.8;
+}
+.showKudo {
+    display: inline-block;
+}
+.hideKudo {
+    display: none;
 }
 .footer {
     width: 100%;
