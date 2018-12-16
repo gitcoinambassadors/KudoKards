@@ -113,3 +113,56 @@ body {
     position: fixed;
     z-index: 9999 !important;
 }
+.modal > div:nth-child(3) {
+    width: 100%;
+    display: inline-block;
+}
+.modal > div:first-child {
+    display: inline-block;
+    width: 100%;
+}
+.modal > div > p:first-child {
+    font-weight: 700;
+    font-size: 14px;
+}
+.modal > div:first-child > div {
+    border-radius: 5px;
+    height: auto;
+}
+.modal > div:first-child > div > div:first-child {
+    width: 20%;
+    display: inline-block;
+    float: left;
+}
+.modal > div:first-child > div > div:first-child > img {
+    width: 80%;
+    height: 80%;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+.modal > div:first-child > div > div:last-child {
+    width: calc(80% - 15px);
+    display: inline-block;
+    float: left;
+    padding-left: 15px;
+}
+.modal > div:first-child > div > div:last-child > h3 {
+    margin-top: 0px;
+}
+.modal > div:first-child > div > div:last-child > p {
+    margin-top: -10px;
+}
+.modal > div:nth-child(2) {
+    display: inline-block;
+    width: 100%;
+}
+.modal > div:nth-child(2) > input {
+    width: 100%;
+    border-radius: 5px;
+    height: 50px;
+    border: 2px solid #ccc;
+    background-color: #fefefe;
+    padding-left: 5px;
+    margin-top: 5px; 
+    margin-bottom: 5px;
+}

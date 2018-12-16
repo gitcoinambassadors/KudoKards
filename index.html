@@ -43,8 +43,25 @@
     <div id="popupModals">
     </div>
     <div id="ex1" class="modal">
-        <p>Thanks for clicking. That felt good.</p>
-        <a href="#" rel="modal:close">Close</a>
+        <div>
+            <p>Your selected kudo:</p>
+            <div>
+                <div><img src='https://s.gitcoin.co/static/v2/images/kudos/attaboy.8f696dcaa367.svg' /></div>
+                <div><h3>Title</h3><p>Description</p></div>
+            </div>
+        </div>
+        <div>
+            <p>Generate your custom KudoKard:</p>
+            <input type='text' name='qr' placeholder='Airdrop Link' disabled />
+            <input type='text' name='message' placeholder='What would you like to say?' />
+            <input type='text' name='from' placeholder='Who is it from?' />
+        </div>
+        <div>
+            <p>Preview KudoKard:</p>
+        </div>
+        <div>
+            <button>Download PDF</button>
+        </div>
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <!-- jQuery Modal -->
