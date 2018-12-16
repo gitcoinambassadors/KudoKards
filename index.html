@@ -1,56 +1,56 @@
 <!DOCTYPE html>
-<html><!-- Commit to trigger Github pages reload. -->
+<html>
 
 <head>
     <meta charset="UTF-8">
-    <title>KudoKards by Gitcoin</title>
-    <link rel="stylesheet" href="assets/css/main.css" type="text/css">
+    <title>title</title>
+    <link rel="stylesheet" href="assets/styles/main.css" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
 </head>
 
 <body>
-    <div class="header">
-        <a href="index.html"><img src="assets/images/platform/gitcoin-logo.png" /></a>
+    <div class="landing">
+        <img src="assets/images/logo.png" />
+        <h1 style="padding-top: 200px;">Figure out CTA HERE.</h1>
     </div>
-    <div class="cta">
-        <div>
-            <h1>Give physical kudos to the people who make your year!</h1>
-            <p>Tis' the season to celebrate, and with the upcoming holidays, there is no better way to wish a community member 'Happy holidays' than this seasons special KudoKards.</p>
-            <p>Whether it be a developer who helped you buidl, or an awesome community member who helped you out, share your thanks with these printable cards!</p>
-            <a href="">Show me the cards!</a>
-        </div>
-    </div>
-    <div class="cards">
-        <h1>Explore KudoKards!</h1>
-        <p>Take a look at the 146 KudoKards you can get today!</p>
+    <div class="querySelection">
+        <h1>Explore Gitcoin Cards!</h1>
+        <p><a href="#ex1" rel="modal:open">Open Modal</a></p>
+        <p>There are over 146 cards to pick and choose from. Give the joy of button Gitcoin card this holiday season!</p>
         <ul>
-            wip ignore
-            <li><button href="" onclick="filterSelection('All')">Any Rarity</button></li>
-            <li><button href="" onclick="filterSelection('Legendary')">Legendary</button></li>
-            <li><a href="" onclick="filterSelection('Special')">Special</a></li>
-            <li><a href="" onclick="filterSelection('Very Rare')">Very Rare</a></li>
-            <li><a href="" onclick="filterSelection('Rare')">Rare</a></li>
-            <li><a href="" onclick="filterSelection('Common')">Common</a></li>
+            <li>
+                <button class="btn active" id="all">Any Rarity</button>
+            </li>
+            <li>
+                <button class="btn" id="Legendary">Legendary</button>
+            </li>
+            <li>
+                <button class="btn" id="Special">Special</button>
+            </li>
+            <li>
+                <button class="btn" id="Vrare">Very Rare</button>
+            </li>
+            <li>
+                <button class="btn" id="Rare">Rare</button>
+            </li>
+            <li>
+                <button class="btn" id="Common">Common</button>
+            </li>
         </ul>
-        <div class="appendCards">
-            <!--<div class="kudo-card">
-                <div>
-                    <div><img src="" /></div>
-                </div>
-                <div>
-                    <h3>Dummy kudo card.</h3>
-                    <p>Dummy description add here. Dummy description add here. </p>
-                </div>
-                <div>
-                    <a href="">Preview</a>
-                    <a href="">Send</a>
-                </div>
-            </div>-->
     </div>
-    <div class="footer">
-        <h4>Made with 💕 by the <a href="https://github.com/gitcoinambassadors" target="_blank">Gitcoin Ambassadors</a>.</h4>
+    <div id="cardFocus">
+    </div>
+    <div id="popupModals">
+    </div>
+    <div id="ex1" class="modal">
+        <p>Thanks for clicking. That felt good.</p>
+        <a href="#" rel="modal:close">Close</a>
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script src="assets/js/script.js"></script>
+    <!-- jQuery Modal -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
+    <script src="assets/scripts/main.js"></script>
 </body>
 
 </html>
