@@ -113,9 +113,16 @@ body {
     position: fixed;
     z-index: 9999 !important;
 }
-.modal > div:nth-child(3) {
+.modal > div:last-child {
     width: 100%;
     display: inline-block;
+    padding-bottom: 20px;
+}
+.modal > div:last-child > iframe {
+    width: 100%;
+    min-height: 450px;
+    border: none;   
+    border-radius: 5px; 
 }
 .modal > div:first-child {
     display: inline-block;
@@ -155,6 +162,7 @@ body {
 .modal > div:nth-child(2) {
     display: inline-block;
     width: 100%;
+    padding-bottom: 20px;
 }
 .modal > div:nth-child(2) > input {
     width: 100%;
@@ -165,4 +173,34 @@ body {
     padding-left: 5px;
     margin-top: 5px; 
     margin-bottom: 5px;
+}
+.modal > div:last-child {
+    width: 100%;
+    display: inline-block;
+}
+.Button {
+    border: none;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    color: #fff;
+    text-decoration: none;
+    margin-left: 10px;
+    float: right;
+}
+.preview {
+    background-color: #000;
+}
+.download {
+    background-color: #ad000c;
+}
+
+#preview > iframe {
+    width: 100%;
+    height: auto;
+    border: none;
+    border-radius: 5px;
+    height: 400px;   
 }

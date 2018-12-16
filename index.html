@@ -6,6 +6,7 @@
     <title>title</title>
     <link rel="stylesheet" href="assets/styles/main.css" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
 </head>
 
 <body>
@@ -15,8 +16,10 @@
     </div>
     <div class="querySelection">
         <h1>Explore Gitcoin Cards!</h1>
-        <p><a href="#ex1" rel="modal:open">Open Modal</a></p>
-        <p>There are over 146 cards to pick and choose from. Give the joy of button Gitcoin card this holiday season!</p>
+        <p>
+            <a href="#ex1" rel="modal:open">Open Modal</a>
+        </p>
+        <p>There are over 146 cards to pick and choose from. Give the joy of a Gitcoin card this holiday season!</p>
         <ul>
             <li>
                 <button class="btn active" id="all">Any Rarity</button>
@@ -46,27 +49,32 @@
         <div>
             <p>Your selected kudo:</p>
             <div>
-                <div><img src='https://s.gitcoin.co/static/v2/images/kudos/attaboy.8f696dcaa367.svg' /></div>
-                <div><h3>Title</h3><p>Description</p></div>
+                <div>
+                    <img src='https://s.gitcoin.co/static/v2/images/kudos/attaboy.8f696dcaa367.svg' />
+                </div>
+                <div>
+                    <h3>Title</h3>
+                    <p>Description</p>
+                </div>
             </div>
         </div>
         <div>
             <p>Generate your custom KudoKard:</p>
             <input type='text' name='qr' placeholder='Airdrop Link' disabled />
-            <input type='text' name='message' placeholder='What would you like to say?' />
-            <input type='text' name='from' placeholder='Who is it from?' />
+            <input id='message' type='text' name='message' placeholder='What would you like to say?' />
+            <input id='sender' type='text' name='from' placeholder='Who is it from?' />
         </div>
         <div>
-            <p>Preview KudoKard:</p>
-        </div>
-        <div>
-            <button>Download PDF</button>
+            <a class='Button download'>Download PDF</a>
+            <a class='Button preview' href="#preview" rel="modal:open">Preview</a>
         </div>
     </div>
+    <div id='preview' class='modal'>
+        <iframe src='preview.html'></iframe>
+    </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <!-- jQuery Modal -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
+     <!-- jQuery Modal -->
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
     <script src="assets/scripts/main.js"></script>
 </body>
 
