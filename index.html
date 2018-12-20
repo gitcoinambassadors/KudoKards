@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 
-<!-- Global TODOS 
+    <!-- Global TODOS 
 1. Printing function configured. [1/2]
 2. File size and imports optimized.
 3. CSS completed. [DONE]
@@ -10,94 +10,99 @@
 6. Payment acceptance for custom printing configured.
 -->
 
-<head>
-    <meta charset="UTF-8">
-    <title>title</title>
-    <link rel="stylesheet" href="assets/styles/main.css" type="text/css">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
-</head>
+    <head>
+        <meta charset="UTF-8">
+        <title>Gitcoin | Cards</title>
+        <link rel="stylesheet" href="assets/styles/main.css" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
+    </head>
 
-<body>
-    <div class="landing">
-        <div class="subLanding">
-            <img src="assets/images/logo.png" />
-            <h1>Give the gift of a Gitcoin Card!</h1>
-            <p>Gitcoin Cards allow you to physically send a token of your appreciation for a special individual. Give the joy
-                of a Gitcoin card this holiday season, and make sure the developer, designer, inventor, or downright awesome
-                person who made your year knows it!</p>
-            <!-- #TODO: Replace video with custom recording of how to use platform. -->
-            <iframe src="https://www.youtube.com/embed/DJartWzDn0E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen></iframe>
-        </div>
-    </div>
-    <div class="querySelection">
-        <!--<h1>Explore Gitcoin Cards!</h1>-->
-        <p>
-            <a href="#ex1" rel="modal:open">Temporary testing modal</a>
-        </p>
-        <!--
-        <p>There are over 146 cards to pick and choose from. Give the joy of a Gitcoin card this holiday season!</p>
-    -->
-        <h2>Filter cards, and get gifting:</h2>
-        <ul>
-            <li>
-                <button class="btn active" id="all">Any Rarity</button>
-            </li>
-            <li>
-                <button class="btn" id="Legendary">Legendary</button>
-            </li>
-            <li>
-                <button class="btn" id="Special">Special</button>
-            </li>
-            <li>
-                <button class="btn" id="Vrare">Very Rare</button>
-            </li>
-            <li>
-                <button class="btn" id="Rare">Rare</button>
-            </li>
-            <li>
-                <button class="btn" id="Common">Common</button>
-            </li>
-        </ul>
-    </div>
-    <div id="cardFocus">
-    </div>
-    <div id="popupModals">
-    </div>
-    <div id="ex1" class="modal">
-        <div>
-            <p>Your selected kudo:</p>
-            <div>
-                <div>
-                    <img src='https://s.gitcoin.co/static/v2/images/kudos/attaboy.8f696dcaa367.svg' />
-                </div>
-                <div>
-                    <h3>Title</h3>
-                    <p>Description</p>
-                </div>
+    <body>
+        <div class="landing">
+            <div class="subLanding">
+                <img src="assets/images/logo.png" />
+                <h1>Give the gift of a Gitcoin Card!</h1>
+                <p>Gitcoin Cards allow you to physically send a token of your appreciation for a special individual.
+                    Give the joy
+                    of a Gitcoin card this holiday season, and make sure the developer, designer, inventor, or
+                    downright awesome
+                    person who made your year knows it!</p>
+                <!-- #TODO: Replace video with custom recording of how to use platform. -->
+                <iframe src="https://www.youtube.com/embed/DJartWzDn0E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
             </div>
         </div>
-        <div>
-            <p>Generate your custom KudoKard:</p>
-            <input type='text' name='qr' placeholder='Airdrop Link' disabled />
-            <input id='messager' type='text' name='message' placeholder='What would you like to say?' />
-            <input id='sender' type='text' name='from' placeholder='Who is it from?' />
+        <div class="querySelection">
+            <!--<h1>Explore Gitcoin Cards!</h1>-->
+            <p>
+                <a href="#ex1" rel="modal:open">Temporary testing modal</a>
+            </p>
+            <!--
+        <p>There are over 146 cards to pick and choose from. Give the joy of a Gitcoin card this holiday season!</p>
+    -->
+            <h2>Filter cards, and get gifting:</h2>
+            <ul>
+                <li>
+                    <button class="btn active" id="all">Any Rarity</button>
+                </li>
+                <li>
+                    <button class="btn" id="Legendary">Legendary</button>
+                </li>
+                <li>
+                    <button class="btn" id="Special">Special</button>
+                </li>
+                <li>
+                    <button class="btn" id="Vrare">Very Rare</button>
+                </li>
+                <li>
+                    <button class="btn" id="Rare">Rare</button>
+                </li>
+                <li>
+                    <button class="btn" id="Common">Common</button>
+                </li>
+            </ul>
         </div>
-        <div>
-            <button class='Button downloa/d' id='thisButton'>Download PDF</button>
+        <div id="cardFocus">
         </div>
-    </div>
-    <div id="printablearea">
-        <h1>Printable Area</h1>
-        <p id="messageField"></p>
-        <p id="senderField"></p>
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.5.0/jspdf.min.js"></script>
-    <!-- jQuery Modal -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
-    <script src="assets/scripts/main.js"></script>
-</body>
+        <div id="popupModals">
+        </div>
+        <div id="ex1" class="modal">
+            <div>
+                <p>Your selected kudo:</p>
+                <div>
+                    <div>
+                        <img src='https://s.gitcoin.co/static/v2/images/kudos/attaboy.8f696dcaa367.svg' />
+                    </div>
+                    <div>
+                        <h3>Title</h3>
+                        <p>Description</p>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <p>Generate your custom KudoKard:</p>
+                <input type='text' name='qr' placeholder='Airdrop Link' disabled />
+                <input id='messager' type='text' name='message' placeholder='What would you like to say?' />
+                <input id='sender' type='text' name='from' placeholder='Who is it from?' />
+            </div>
+            <div>
+                <button class='Button download' onclick="printDiv('printableArea')" id='thisButton'>Download PDF</button>
+            </div>
+        </div>
+        <div id="printablearea" style='display: none;'>
+            <img src='https://s.gitcoin.co/static/v2/images/kudos/attaboy.8f696dcaa367.svg' style='transform: rotate(-90deg); width: 50%; margin-left: 25%;'/>
+            <div style='transform: rotate(-90deg); width: 20%; text-align: center; position: absolute; right: 0; top: 75%;'>
+                <img src="assets/images/logo_black.png" style='width: 80%;'/>
+                <h5 style="color: #25E899;">Gitcoin Cards</h5>
+                <p style='margin-top: -15px;'>A project by the Gitcoin Ambassadors.</p>
+            </div>
+        </div>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.5.0/jspdf.min.js"></script>
+        <!-- jQuery Modal -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
+        <script src="assets/scripts/main.js"></script>
+    </body>
 
 </html>
