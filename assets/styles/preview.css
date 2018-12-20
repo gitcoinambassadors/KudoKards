@@ -315,3 +315,7 @@ p {
     font-size: 20px;
   }
 }
+.printable {
+  width: 100vw;
+  height: 100vh;
+}

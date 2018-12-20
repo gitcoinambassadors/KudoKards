@@ -11,15 +11,22 @@
 
 <body>
     <div class="landing">
-        <img src="assets/images/logo.png" />
-        <h1 style="padding-top: 200px;">Figure out CTA HERE.</h1>
+        <div class="subLanding">
+            <img src="assets/images/logo.png" />
+            <h1>Give the gift of a Gitcoin Card!</h1>
+            <p>Gitcoin Cards allow you to physically send a token of your appreciation for a special individual. Give the joy of a Gitcoin card this holiday season, and make sure the developer, designer, inventor, or downright awesome person who made your year knows it!</p>
+            <!-- #TODO: Replace video with custom recording of how to use platform. -->
+            <iframe src="https://www.youtube.com/embed/DJartWzDn0E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>    
     </div>
     <div class="querySelection">
-        <h1>Explore Gitcoin Cards!</h1>
+        <!--<h1>Explore Gitcoin Cards!</h1>
         <p>
             <a href="#ex1" rel="modal:open">Open Modal</a>
         </p>
         <p>There are over 146 cards to pick and choose from. Give the joy of a Gitcoin card this holiday season!</p>
+    -->
+        <h2>Filter cards, and get gifting:</h2>
         <ul>
             <li>
                 <button class="btn active" id="all">Any Rarity</button>
@@ -65,16 +72,18 @@
             <input id='sender' type='text' name='from' placeholder='Who is it from?' />
         </div>
         <div>
-            <a class='Button download'>Download PDF</a>
-            <a class='Button preview' href="#preview" rel="modal:open">Preview</a>
+            <button class='Button download' id='thisButton'>Download PDF</button>
         </div>
     </div>
+    <!-- Preview not ready yet. 
     <div id='preview' class='modal'>
         <iframe src='preview.html'></iframe>
     </div>
+-->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-     <!-- jQuery Modal -->
-     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.5.0/jspdf.min.js"></script>
+    <!-- jQuery Modal -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
     <script src="assets/scripts/main.js"></script>
 </body>
 
