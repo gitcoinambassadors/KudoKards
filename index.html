@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html>
 
+<!-- Global TODOS 
+1. Printing function configured. [1/2]
+2. File size and imports optimized.
+3. CSS completed. [DONE]
+4. Modal functionality completed. [DONE]
+5. Card preview completed. [1/2]
+6. Payment acceptance for custom printing configured.
+-->
+
 <head>
     <meta charset="UTF-8">
     <title>title</title>
@@ -14,16 +23,20 @@
         <div class="subLanding">
             <img src="assets/images/logo.png" />
             <h1>Give the gift of a Gitcoin Card!</h1>
-            <p>Gitcoin Cards allow you to physically send a token of your appreciation for a special individual. Give the joy of a Gitcoin card this holiday season, and make sure the developer, designer, inventor, or downright awesome person who made your year knows it!</p>
+            <p>Gitcoin Cards allow you to physically send a token of your appreciation for a special individual. Give the joy
+                of a Gitcoin card this holiday season, and make sure the developer, designer, inventor, or downright awesome
+                person who made your year knows it!</p>
             <!-- #TODO: Replace video with custom recording of how to use platform. -->
-            <iframe src="https://www.youtube.com/embed/DJartWzDn0E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </div>    
+            <iframe src="https://www.youtube.com/embed/DJartWzDn0E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen></iframe>
+        </div>
     </div>
     <div class="querySelection">
         <!--<h1>Explore Gitcoin Cards!</h1>-->
         <p>
             <a href="#ex1" rel="modal:open">Temporary testing modal</a>
-        </p><!--
+        </p>
+        <!--
         <p>There are over 146 cards to pick and choose from. Give the joy of a Gitcoin card this holiday season!</p>
     -->
         <h2>Filter cards, and get gifting:</h2>
@@ -72,10 +85,10 @@
             <input id='sender' type='text' name='from' placeholder='Who is it from?' />
         </div>
         <div>
-            <button class='Button download' id='thisButton'>Download PDF</button>
+            <button class='Button downloa/d' id='thisButton'>Download PDF</button>
         </div>
     </div>
-    <div>
+    <div id="printablearea">
         <h1>Printable Area</h1>
         <p id="messageField"></p>
         <p id="senderField"></p>
