@@ -25,33 +25,24 @@ var $btns = $('.btn').click(function () {
     $(this).addClass('active');
 })
 
-var messagevar = '';
-$('#message').on('change', function() {
-    var messagevar = this.value;
-    //$(text).appendTo("#field");
-    //document.getElementById('previewFrame').src += '';
+$('#messager').on('change', function() {
+    $('#messageField').text( this.value );
 });
 
 $('#sender').on('change', function() {
     $('#senderField').text( this.value );
-    // document.getElementById('previewFrame').src += '';
-    console.log(messagevar);
 });
 
-function generatePDF(){
-    var doc = new jsPDF();
-      
-      var centeredText = function(text, size, y) {
-          // doc.setFontSize(40);
-          // var textWidth = doc.getStringUnitWidth(text) * 10;
-          // var offset = (doc.internal.pageSize.width - textWidth) / 2;
-          centeredText(message, 30, 40)
-      }
-      
 
-    doc.save('KudoKard.pdf');
-  }
-  
-$("#thisButton").click(function(){	
-    generatePDF();
+
+// TODO: Rewrite this to process printing func.
+$("#thisButton").click(function () {
+    var divContents = $("#printablearea").html();
+    var printWindow = window.open('', '', 'height=400,width=800');
+    printWindow.document.write('<html><head><title>DIV Contents</title>');
+    printWindow.document.write('</head><body >');
+    printWindow.document.write(divContents);
+    printWindow.document.write('</body></html>');
+    printWindow.document.close();
+    printWindow.print();
 });
