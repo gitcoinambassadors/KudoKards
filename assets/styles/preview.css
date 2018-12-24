@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Mirza&amp;subset=latin-ext");
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
 * {
   box-sizing: border-box;
 }
@@ -12,6 +12,7 @@ body {
   margin: 0;
   padding: 0;
   overflow: hidden;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .card {
@@ -303,7 +304,6 @@ body {
   }
 }
 p {
-  font-family: "Mirza", Verdana, Arial, serif;
   font-size: 36px;
   line-height: 1.2em;
   padding-left: 10px;
@@ -321,4 +321,36 @@ p {
 .printable {
   width: 100vw;
   height: 100vh;
+}
+
+.cart-page-inside>div>img {
+  width: 90%;
+  display: inline-block;
+}
+.cart-page-inside>div>a {
+  background-color: #0D0764;
+  color: #fff;
+  border-radius: 5px;
+  text-decoration: none;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  margin-top: 5%;
+}
+.cart-page-bottom>div {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+.cart-page-bottom>div>p:first-child {
+  font-size: 2vw;
+}
+@media screen and (min-width: 1000px) {
+  .cart-page-bottom>div>p:first-child {
+    font-size: 15px;
+  }
+}
+.cart-page-bottom>div>p:last-child {
+  font-size: 1em;
+  color: #0D0764;
 }
