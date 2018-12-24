@@ -227,10 +227,12 @@ body {
 .modal>div:nth-child(2) {
     display: inline-block;
     width: 100%;
-    padding-bottom: 20px;
 }
 
-.modal>div:nth-child(2)>input {
+.modal>div:nth-child(2)>form {
+    text-align: center;
+}
+.modal>div:nth-child(2)>form>input {
     width: 100%;
     border-radius: 5px;
     height: 50px;
@@ -241,9 +243,13 @@ body {
     margin-bottom: 5px;
 }
 
-.modal>div:last-child {
+#submit {
     width: 100%;
-    display: inline-block;
+    background-color: #0D0764;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 500;
+    border: none;
 }
 
 .Button {

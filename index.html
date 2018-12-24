@@ -81,13 +81,14 @@
                 </div>
             </div>
             <div>
-                <p>Generate your custom KudoKard:</p>
-                <input type='text' name='qr' placeholder='Airdrop Link' disabled />
-                <input id='messager' type='text' name='message' placeholder='What would you like to say?' />
-                <input id='sender' type='text' name='from' placeholder='Who is it from?' />
-            </div>
-            <div>
-                <button class='Button download' onclick="printDiv('printableArea')" id='thisButton'>Download PDF</button>
+                <p>Generate your custom Gitcoin card:</p>
+                <form>
+                    <input id='recipient' type='email' name='email' placeholder='What is the recipients email?' />
+                    <input id='messager' type='text' name='message' placeholder='What is your message?' />
+                    <input id='sender' type='text' name='from' placeholder='What is your name?' />
+                    <input id='redeem' type='text' name='redeem' placeholder='Do you have an airdrop link?' disabled />
+                    <input id='submit' type='submit' value='Send Card' />
+                </form>
             </div>
         </div>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>

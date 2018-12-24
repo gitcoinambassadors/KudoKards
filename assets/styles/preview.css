@@ -4,8 +4,8 @@
 }
 
 body {
-  background-color: #928A97;
-  background-image: url("https://images.pexels.com/photos/257909/pexels-photo-257909.jpeg?fit=crop&w=1920&h=1280");
+  background-color: #fefefe;
+  background-image: url(../images/header-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
@@ -145,6 +145,10 @@ body {
   z-index: 2;
 }
 
+.cart-page-outside>img {
+  margin-top: 22.5%;
+}
+
 .cart-page-outside,
 .cart-page-inside {
   position: absolute;
@@ -152,23 +156,22 @@ body {
 }
 
 .cart-page-outside {
-  border: 10px solid #fbfbfb;
-  background: #c72320 url("https://www.dropbox.com/s/xsgg2exs2oparkm/front-bg.png?raw=1") no-repeat center;
+  border: 10px solid #25E899;
+  background: #fefefe;
   background-size: cover;
   width: 100%;
   height: 100%;
 }
 @media (max-width: 767px) {
   .cart-page-outside {
-    border: 5px solid #fbfbfb;
+    border: 5px solid #25E899;
   }
 }
 
 .cart-page-inside,
 .cart-page-bottom {
-  background-color: #d4d1d0;
-  background-image: url("https://www.dropbox.com/s/8hw7guch8d151kg/pattern.png?raw=1");
-  border: 20px solid #d4d1d0;
+  background-color: #fefefe;
+  border: 20px solid #25E899;
   display: -webkit-box;
   display: -moz-box;
   display: box;
@@ -191,7 +194,7 @@ body {
 @media (max-width: 767px) {
   .cart-page-inside,
   .cart-page-bottom {
-    border: 10px solid #d4d1d0;
+    border: 10px solid #25E899;
   }
 }
 
