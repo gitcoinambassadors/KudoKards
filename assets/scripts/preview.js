@@ -8,12 +8,26 @@ function getParameterByName(name, url) {
     if (!results[2]) return '';
     return decodeURIComponent(results[2].replace(/\+/g, " "));
 }
-// kudoMessage
-var senderMessage = getParameterByName('msg');
+
+// Declare paramURL from MSG string output.
+var paramURL = getParameterByName('MSG');
+
+// Get sender message.
+var senderMessage = paramURL.substring(0, paramURL.indexOf('FROM='));
+// Push sender message to message field in card.
 document.getElementById("messageField").innerHTML = senderMessage;
 
-var senderName = getParameterByName('from');
+// Get sender name.
+var senderName = paramURL.split('FROM=').pop().split('IMAGEURL=')[0];
+// Push sender name to name field in card.
 document.getElementById("senderField").innerHTML = senderName;
 
-var href = getParameterByName('href');
-document.getElementById("claim").
+// Get url for Kudo image.
+var kudoImage = paramURL.split('IMAGEURL=').pop().split('CLAIMURL=')[0];
+// Push url to Kudo src image using JQuery.
+$("#kudoImage").attr("src", kudoImage);
+
+// Get url for Kudo airdrop claim link.
+var airdropURL = paramURL.split('CLAIMURL=').pop();
+// Push url to Kudo claim button href using JQuery.
+$("#claimButton").attr("href", airdropURL);
