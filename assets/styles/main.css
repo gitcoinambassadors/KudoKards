@@ -243,40 +243,11 @@ body {
     margin-bottom: 5px;
 }
 
-#submit {
+.modal>div:nth-child(2)>form>input:last-child {
     width: 100%;
     background-color: #0D0764;
     color: #fff;
     font-size: 15px;
     font-weight: 500;
     border: none;
-}
-
-.Button {
-    border: none;
-    padding-left: 15px;
-    padding-right: 15px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    border-radius: 5px;
-    color: #fff;
-    text-decoration: none;
-    margin-left: 10px;
-    float: right;
-}
-
-.preview {
-    background-color: #000;
-}
-
-.download {
-    background-color: #280076;
-}
-
-#preview>iframe {
-    width: 100%;
-    height: auto;
-    border: none;
-    border-radius: 5px;
-    height: 400px;
 }
