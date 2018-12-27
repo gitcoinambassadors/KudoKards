@@ -1,4 +1,4 @@
-$(document).ready(function(){
+$(document).ready(function () {
     $(function () {
 
         var kudos = [];
@@ -10,7 +10,7 @@ $(document).ready(function(){
                 $(kudo).appendTo("#cardFocus");
                 $(modal).appendTo("#popupModals");
 
-                $('.preview').click(function(){
+                $('.preview').click(function () {
                     // Change this hardcoded link once the website is live.
                     var previewLink = 'https://gitcoinambassadors.github.io/KudoKards/preview.html?' + 'MSG=' + $(this).parent().children('.message').val() + 'FROM=' + $(this).parent().children('.sender').val() + 'IMAGEURL=' + $(this).parent().parent().parent().find('.kudoImage').attr('src') + 'CLAIMURL=' + $(this).parent().children('.redeem').val();
                     window.open(previewLink, "_blank");
@@ -31,4 +31,37 @@ $(document).ready(function(){
         $btns.removeClass('active');
         $(this).addClass('active');
     });
+
+    (function () {
+        emailjs.init("user_QP2mfvaNUnYF3MRDIGpSc");
+    })();
+
+    var myform = $(".form");
+    myform.submit(function (event) {
+        // Hardcorde link, change when website live.
+        var previewLink2 = 'https://gitcoinambassadors.github.io/KudoKards/preview.html?' + 'MSG=' + $children('.message').val() + 'FROM=' + $children('.sender').val() + 'IMAGEURL=' + $(this).parent().parent().find('.kudoImage').attr('src') + 'CLAIMURL=' + $children('.redeem').val();
+        $('.hiddenLink').val(previewLink2);
+
+        event.preventDefault();
+
+        var params = myform.serializeArray().reduce(function (obj, item) {
+            obj[item.name] = item.value;
+            return obj;
+        }, {});
+
+        // Change to your service ID, or keep using the default service
+        var service_id = "default_service";
+
+        var template_id = "template_WeQDVhOc";
+        emailjs.send(service_id, template_id, params)
+            .then(function () {
+                alert("Sent!");
+                myform.find("button").text("Send");
+            }, function (err) {
+                alert("Send email failed!\r\n Response:\n " + JSON.stringify(err));
+                myform.find("button").text("Send");
+            });
+        return false;
+    });
+
 });

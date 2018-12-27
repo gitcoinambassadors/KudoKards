@@ -31,7 +31,7 @@ $("#kudoImage").attr("src", kudoImage);
 var airdropURL = paramURL.split('CLAIMURL=').pop();
 
 // Ignore empty
-if (airdropURL === null) {
+if (airdropURL == null) {
     $('#claimButton').hide();
     $('#kudoImage').css("width", "90%");
 } else {

@@ -16,6 +16,7 @@
         <link rel="stylesheet" href="assets/styles/main.css" type="text/css">
         <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
+        <script type="text/javascript" src="https://cdn.emailjs.com/sdk/2.2.4/email.min.js"></script>
     </head>
 
     <body>
@@ -82,11 +83,13 @@
             </div>
             <div>
                 <p>Generate your custom Gitcoin card:</p>
-                <form>
-                    <input class='recipient' type='email' name='email' placeholder='What is the recipients email?' />
+                <form class='form'>
+                    <input class='hiddenLink' type='text' name='hidden_link' />
+                    <input class='sender' type='text' name='sender_name' placeholder='What is your name?' />
                     <input class='message' type='text' name='message' placeholder='What is your message?' />
-                    <input class='sender' type='text' name='from' placeholder='What is your name?' />
-                    <input class='redeem' type='text' name='redeem' placeholder='Airdrop link (copy and paste directly).' />
+                    <input class='recipientName' type="text" name="to_name" placeholder='What is the recipients name?'/>
+                    <input class='recipient' type='email' name='reciepient_email' placeholder='What is the recipients email?' />
+                    <input class='redeem' type='text' name='link_send' placeholder='Do you have an Airdrop link? (paste directly)' />
                     <input class='submit' type='submit' value='Send Card' />
                     <input class='preview' type='button' value='Preview' />
                 </form>
