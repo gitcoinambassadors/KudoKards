@@ -29,5 +29,12 @@ $("#kudoImage").attr("src", kudoImage);
 
 // Get url for Kudo airdrop claim link.
 var airdropURL = paramURL.split('CLAIMURL=').pop();
-// Push url to Kudo claim button href using JQuery.
-$("#claimButton").attr("href", airdropURL);
+
+// Ignore empty
+if (airdropURL === null) {
+    $('#claimButton').hide();
+    $('#kudoImage').css("width", "90%");
+} else {
+    // Push url to Kudo claim button href using JQuery.
+    $("#claimButton").attr("href", airdropURL);
+}
