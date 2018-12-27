@@ -1,25 +1,26 @@
 <!DOCTYPE html>
 <html>
 
-    <!-- Global TODOS
-1. Printing function configured. [1/2]
-2. File size and imports optimized.
-3. CSS completed. [DONE]
-4. Modal functionality completed. [DONE]
-5. Card preview completed. [1/2]
-6. Payment acceptance for custom printing configured.
--->
-
     <head>
+        <!-- Meta -->
         <meta charset="UTF-8">
-        <title>Gitcoin | Cards</title>
-        <link rel="stylesheet" href="assets/styles/main.css" type="text/css">
-        <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
-        <script type="text/javascript" src="https://cdn.emailjs.com/sdk/2.2.4/email.min.js"></script>
+        <meta name="description" content="Gitcoin Cards allow you to digitally send a token of your appreciation for a special individual.">
+        <meta name="keywords" content="Gitcoin, Cards, Holiday, Cheer, Gift, Token, Kudos, NFT">
+        <meta name="author" content="Gitcoin Ambassadors">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <!-- Title -->
+        <title>Gitcoin Cards</title>
+
+        <!-- Import necessary styling -->
+        <link rel="stylesheet" href="assets/styles/main.css" type="text/css"> <!-- Main stylesheet -->
+        <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet"> <!-- Font stylesheet -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" /> <!-- JQuery Modal styling -->
+        <script type="text/javascript" src="https://cdn.emailjs.com/sdk/2.2.4/email.min.js"></script> <!-- Preload EmailJS SDK -->
     </head>
 
     <body>
+        <!-- Landing section -->
         <div class="landing">
             <div class="subLanding">
                 <img src="assets/images/logo.png" />
@@ -29,12 +30,13 @@
                     of a Gitcoin card this holiday season, and make sure the developer, designer, inventor, or
                     downright awesome
                     person who made your year knows it!</p>
-                <!-- #TODO: Replace video with custom recording of how to use platform. -->
                 <iframe src="https://www.youtube.com/embed/DJartWzDn0E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                     allowfullscreen></iframe>
             </div>
         </div>
+        <!-- Call to Action section -->
         <div class="querySelection">
+            <!-- Temporary testing modal related to commented modal at end. Use this for testing purposes to prevent thousand email spam. -->
             <!--<p>
                 <a href="#ex1" rel="modal:open">Temporary testing modal</a>
             </p>-->
@@ -60,10 +62,13 @@
                 </li>
             </ul>
         </div>
+        <!-- Auto populated with Gitcoin cards from main.js + JSON -->
         <div id="cardFocus">
         </div>
+        <!-- Auto populated with Gitcoin card modals from main.js + JSON -->
         <div id="popupModals">
         </div>
+        <!-- Commented out modal to be used with the temporary modal link above.-->
         <!--<div id="ex1" class="modal">
             <div>
                 <p>Your selected kudo:</p>
@@ -91,10 +96,10 @@
                 </form>
             </div>
         </div>-->
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-        <!-- jQuery Modal -->
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
-        <script src="assets/scripts/main.js"></script>
+        <!-- Import scripts. -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script> <!-- jQuery import -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script> <!-- jQuery Modal -->
+        <script src="assets/scripts/main.js"></script> <!-- Main script file -->
     </body>
 
 </html>
