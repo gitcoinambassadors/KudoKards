@@ -243,8 +243,12 @@ body {
     margin-bottom: 5px;
 }
 
-.modal>div:nth-child(2)>form>input:nth-child(6) {
+.modal>div:nth-child(2)>form>input:nth-child(7) {
     background-color: #12c971 !important;
     color: #fff;
     border-color: #12c971 !important;
+}
+
+.hiddenLink {
+    display: none;
 }
