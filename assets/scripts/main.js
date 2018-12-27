@@ -6,7 +6,7 @@ $(document).ready(function () {
         (function () {
             emailjs.init("user_QP2mfvaNUnYF3MRDIGpSc");
         })();
-        
+
         $.getJSON('https://api.myjson.com/bins/fyzvw', function (data) {
             $.each(data, function (key, val) {
                 var kudo = "<div class='card all " + val.quality + "'><a class='myBtn' href='#" + val.idnumber + "' rel='modal:open'><div class='cardBack'></div><div class='cardFront'><img src='" + val.imagesrc + "'/></div><div><h3>" + val.name + "</h3></div></a></div>"
