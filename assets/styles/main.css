@@ -243,11 +243,8 @@ body {
     margin-bottom: 5px;
 }
 
-.modal>div:nth-child(2)>form>input:last-child {
-    width: 100%;
-    background-color: #0D0764;
+.modal>div:nth-child(2)>form>input:nth-child(5) {
+    background-color: #12c971 !important;
     color: #fff;
-    font-size: 15px;
-    font-weight: 500;
-    border: none;
+    border-color: #12c971 !important;
 }

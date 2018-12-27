@@ -20,7 +20,7 @@ document.getElementById("messageField").innerHTML = senderMessage;
 // Get sender name.
 var senderName = paramURL.split('FROM=').pop().split('IMAGEURL=')[0];
 // Push sender name to name field in card.
-document.getElementById("senderField").innerHTML = senderName;
+document.getElementById("senderField").innerHTML = '- ' + senderName;
 
 // Get url for Kudo image.
 var kudoImage = paramURL.split('IMAGEURL=').pop().split('CLAIMURL=')[0];

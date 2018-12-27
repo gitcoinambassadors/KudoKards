@@ -326,6 +326,7 @@ p {
 .cart-page-inside>div>img {
   width: 90%;
   display: inline-block;
+  padding-bottom: 7.5%;
 }
 .cart-page-inside>div>a {
   background-color: #0D0764;
