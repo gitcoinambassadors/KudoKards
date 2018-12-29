@@ -9,11 +9,11 @@ $(document).ready(function () {
         })();
 
         // TODO: Refactor this so that there are not thousands of DOM elements.
-        $.getJSON('https://api.myjson.com/bins/fyzvw', function (data) {
+        $.getJSON('list.json', function (data) { // list.json
             // Loop through each item in JSON list and generate cards, modals, and form-endpoints.
             $.each(data, function (key, val) {
                 // Generate kudo cards.
-                var kudo = "<div class='card all " + val.quality + "'><a class='myBtn' href='#" + val.idnumber + "' rel='modal:open'><div class='cardBack'></div><div class='cardFront'><img src='" + val.imagesrc + "'/></div><div><h3>" + val.name + "</h3></div></a></div>"
+                var kudo = "<div class='card all " + val.quality + "'><a class='myBtn' href='#" + val.idnumber + "' rel='modal:open'><div class='cardBack'></div><div class='cardFront'><img class='lazy' data-original='" + val.imagesrc + "'/></div><div><h3>" + val.name + "</h3></div></a></div>"
                 // Generate kudo modals (with attachement to kudo ID).
                 var modal = "<div id='" + val.idnumber + "' class='modal'><div><p>Your selected kudo:</p><div><div><img class='kudoImage' src='" + val.imagesrc + "' /></div><div><h3>" + val.name + "</h3><p>" + val.description + "</p></div></div></div><div><p>Generate your custom Gitcoin card:</p><form class='form" + val.idnumber + "'><input class='hiddenLink' type='text' name='hidden_link' /><input class='sender' type='text' name='sender_name' placeholder='What is your name?' /><input class='message' type='text' name='message' placeholder='What is your message?' /><input class='recipientName' type='text' name='to_name' placeholder='What is the recipients name?'/><input class='recipient' type='email' name='reciepient_email' placeholder='What is the recipients email?' /><input class='redeem' type='text' name='link_send' placeholder='Do you have an Airdrop link? (paste directly)' /><input class='submit' type='submit' value='Send Card' /><input class='preview' type='button' value='Preview' /></form></div></div>"
                 //Append kudo + modal to appropriate Divs.
@@ -73,4 +73,7 @@ $(document).ready(function () {
         $(this).addClass('active');
     });
 
+    $("img.lazy").lazyload({
+        threshold : 200
+    });
 });
