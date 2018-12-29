@@ -23,7 +23,7 @@ $(document).ready(function () {
                 //Setup preview button by generating link on press. URI encoding isn't necessary since this link is not being emailed but used directly by browser.
                 $('.preview').click(function () {
                     // Change this hardcoded link depending on host.
-                    var previewLink = 'https://gitcoinambassadors.github.io/KudoKards/preview.html?' + 'MSG=' + $(this).parent().children('.message').val() + 'FROM=' + $(this).parent().children('.sender').val() + 'IMAGEURL=' + $(this).parent().parent().parent().find('.kudoImage').attr('src') + 'CLAIMURL=' + $(this).parent().children('.redeem').val();
+                    var previewLink = 'https://gitcoin.cards/preview.html?' + 'MSG=' + $(this).parent().children('.message').val() + 'FROM=' + $(this).parent().children('.sender').val() + 'IMAGEURL=' + $(this).parent().parent().parent().find('.kudoImage').attr('src') + 'CLAIMURL=' + $(this).parent().children('.redeem').val();
                     window.open(previewLink, "_blank");
                 });
 
@@ -31,7 +31,7 @@ $(document).ready(function () {
                 var myform = $(".form" + val.idnumber);
                 myform.submit(function (event) {
                     // Hardcorde link, change when website live.
-                    var previewLink2 = 'https://gitcoinambassadors.github.io/KudoKards/preview.html?MSG=' + encodeURIComponent($(this).children('.message').val().trim()) + 'FROM=' + encodeURIComponent($(this).children('.sender').val().trim()) + 'IMAGEURL=' + $(this).parent().parent().find('.kudoImage').attr('src') + 'CLAIMURL=' + $(this).children('.redeem').val();
+                    var previewLink2 = 'https://gitcoin.cards/preview.html?MSG=' + encodeURIComponent($(this).children('.message').val().trim()) + 'FROM=' + encodeURIComponent($(this).children('.sender').val().trim()) + 'IMAGEURL=' + $(this).parent().parent().find('.kudoImage').attr('src') + 'CLAIMURL=' + $(this).children('.redeem').val();
                     $('.hiddenLink').val(previewLink2);
 
                     event.preventDefault();
